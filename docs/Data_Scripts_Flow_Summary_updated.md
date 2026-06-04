@@ -131,9 +131,9 @@
 | Folder / File | Description |
 |---|---|
 | `00_paper_list/` | List of 55 publications used in the study (45 training + 10 evaluation) |
-| `01_scripts/` | Python scripts (Steps 1–3) + R scripts (training data generation) |
-| `01_scripts/R_scripts/` | **8 R scripts** (one per ICASA category) — read ICASA Excel template and enriched Markdown files; produce `04_manual_json` JSON files and `03_training_data` JSONL files |
-| `02_icasa_template/` | ICASA variable schema as Excel workbook (`.xlsm`). Created by colleague based on the ICASA dictionary (available at [DSSAT/ICASA-Dictionary](https://github.com/DSSAT/ICASA-Dictionary)). Read at runtime by both R scripts and Python Step 3. |
+| `01_scripts/python/` | Python scripts implementing the full pipeline (Steps 1–3) |
+| `01_scripts/R/` | **8 R scripts** (one per ICASA category) — read ICASA Excel template and enriched Markdown files; produce `04_manual_json` JSON files and `03_training_data` JSONL files |
+| `02_icasa_template/icasa_template_allColumns.xlsm` | ICASA variable schema as Excel workbook. Created by colleague based on the ICASA dictionary (available at [DSSAT/ICASA-Dictionary](https://github.com/DSSAT/ICASA-Dictionary)). Read at runtime by both R scripts and Python Step 3. |
 | `03_training_data/` | JSONL fine-tuning datasets — one `.jsonl` per category, each with 55 conversation pairs (messages: user = enriched Markdown, assistant = structured JSON). Uploaded to OpenAI platform to fine-tune the GPT model. |
 | `04_manual_json/` | Ground-truth JSON extractions — one JSON file per paper per category, produced by the R scripts from the filled-in Excel template. Used as the target (assistant) output in the JSONL training files. |
 | `05_manual_tabular/` | Manual extraction results in tabular form — one `.xlsx` per paper with all categories combined. Derived from `04_manual_json`. Serves as human-baseline for evaluation. |
@@ -182,16 +182,17 @@ This comparison measures how well the fine-tuned LLM reproduces the manual extra
 
 ---
 
-## Known Naming Inconsistencies (to fix)
+## Naming — Standardised (applied)
 
-The category names are not fully consistent across folders and scripts:
+All category names are now consistent across folders and files:
 
-| Canonical name (Python Step 3) | `03_training_data/` file | `04_manual_json/` subfolder | `06_llm_output_json/` subfolder |
-|---|---|---|---|
-| `fertilizers` | `fertilizeration.jsonl` ⚠️ | `fertilizeration_json` ⚠️ | `fertilizer` ⚠️ |
-| `plot_details` | `plotdetils.jsonl` ⚠️ | `plotdetails_json` | `plot` ⚠️ |
-| `harvests` | `harvest.jsonl` | `harvest_json` | `harvest` |
-| `genotypes` | `genotypes.jsonl` | `genotypes_json` | `genotype` ⚠️ |
-
-**Recommendation:** Standardise all folder/file names to match the Python Step 3 keys exactly:
-`exp_metadata`, `fields`, `genotypes`, `plantings`, `irrigation`, `fertilizers`, `harvests`, `plot_details`.
+| Category | `03_training_data/` | `04_manual_json/` subfolder | `06_llm_output_json/` subfolder | `07_llm_output_tabular/` subfolder |
+|---|---|---|---|---|
+| `exp_metadata` | `exp_metadata.jsonl` | `exp_metadata` | `exp_metadata` | `exp_metadata` |
+| `fields` | `fields.jsonl` | `fields` | `fields` | `fields` |
+| `genotypes` | `genotypes.jsonl` | `genotypes` | `genotypes` | `genotypes` |
+| `planting` | `planting.jsonl` | `planting` | `planting` | `planting` |
+| `irrigation` | `irrigation.jsonl` | `irrigation` | `irrigation` | `irrigation` |
+| `fertilization` | `fertilization.jsonl` | `fertilization` | `fertilization` | `fertilization` |
+| `harvest` | `harvest.jsonl` | `harvest` | `harvest` | `harvest` |
+| `plot_details` | `plot_details.jsonl` | `plot_details` | `plot_details` | `plot_details` |
