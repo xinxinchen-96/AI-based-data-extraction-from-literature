@@ -1,7 +1,7 @@
 ## ------------------------------------------------------------------------------------------------------------------
-## Script name: generate_training_corpus.R
-## Purpose of script: generate jsonl training file for LLM-supported metadata extraction from tokenized pdf files to
-## the ICASA data format
+## Script name: assemble_training_set.R
+## Purpose of script: assemble jsonl training file for LLM-supported extraction of context metadata from tokenized
+## scientific articles (pdf files) based on the ICASA crop modeling controlled vocabulary
 ##
 ## Author: Benjamin Leroy
 ## Date Created: 2025-08-06
