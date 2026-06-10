@@ -1,0 +1,18 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Abedinpour2012_2009",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Abedinpour2012_2010",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

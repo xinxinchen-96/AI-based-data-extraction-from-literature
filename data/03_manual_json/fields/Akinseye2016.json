@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "field_name": "Bamako",
+      "field_country": "Mali",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 12.52,
+      "field_longitude": -8.07,
+      "field_elevation": null
+    }
+  ]
+}

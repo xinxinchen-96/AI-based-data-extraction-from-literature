@@ -1,0 +1,74 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Getnet2022_2000_Melkassa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2002_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2003_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2004_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2004_Melkassa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2005_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2005_Melkassa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2007_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2008_Kulumsa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Getnet2022_2008_Melkassa",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    }
+  ]
+}

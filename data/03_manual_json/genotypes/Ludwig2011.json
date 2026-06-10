@@ -1,0 +1,32 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Ludwig2011_2007_Garte",
+      "crop_ident_ICASA": "FBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2007_HohesFeld",
+      "crop_ident_ICASA": "FBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2008_Garte",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2008_HohesFeld",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    }
+  ]
+}

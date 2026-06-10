@@ -1,0 +1,25 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Ottman2012_2007",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Ottman2012_2008",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Ottman2012_2009",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

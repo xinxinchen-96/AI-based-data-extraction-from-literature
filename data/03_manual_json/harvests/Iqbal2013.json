@@ -1,0 +1,25 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Iqbal2013_1999",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "1999-06-10",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Iqbal2013_2000",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Iqbal2013_2001",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Dueri2022_2013_Leeston",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2014_Leeston",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2015_Leeston",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2016_Wakanui",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2017_Wakanui",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2018_Wakanui",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

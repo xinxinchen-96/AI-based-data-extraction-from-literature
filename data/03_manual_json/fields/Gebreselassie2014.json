@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Gebreselassie2014_2012",
+      "field_name": "Demonstration farm of Arba Minch University",
+      "field_country": "Ethiopia",
+      "field_sub_country": "SNNP",
+      "field_sub_sub_country": "Arba Minch",
+      "field_latitude": 6.07,
+      "field_longitude": 37.57,
+      "field_elevation": 1203
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "CLV",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "FBN",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "FXM",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "Mustard",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "OAT",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "Phacelia",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "FRG",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "RGA",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "RAP",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Tribouillois2017_2012",
+      "crop_ident_ICASA": "HVT",
+      "cultivar_name": null,
+      "crop_intended_use": "CO",
+      "cultivar_notes": null
+    }
+  ]
+}

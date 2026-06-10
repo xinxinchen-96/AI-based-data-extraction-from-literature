@@ -1,0 +1,46 @@
+{
+  "PLOT_DETAILS": [
+    {
+      "experiment_ID": "Bechini2005_1987",
+      "plot_length": 0.18,
+      "plot_width": 1,
+      "plot_area": 0.18,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1988",
+      "plot_length": 0.18,
+      "plot_width": 1,
+      "plot_area": 0.18,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1990",
+      "plot_length": 0.18,
+      "plot_width": 1,
+      "plot_area": 0.18,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1991",
+      "plot_length": 0.18,
+      "plot_width": 1,
+      "plot_area": 0.18,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1997",
+      "plot_length": 0.18,
+      "plot_width": 1,
+      "plot_area": 0.18,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "plot_length": 0.18,
+      "plot_width": 1.2,
+      "plot_area": 0.216,
+      "plot_layout": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Battisti2016_2014_C1",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_C2",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_C3",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E4",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E6",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E7",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E9",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E1",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E2",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E5",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E8",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Battisti2016_2016_E3",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

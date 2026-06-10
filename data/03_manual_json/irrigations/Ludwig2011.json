@@ -1,0 +1,32 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Ludwig2011_2007_Garte",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2007_HohesFeld",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2008_Garte",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ludwig2011_2008_HohesFeld",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "PLOT_DETAILS": [
+    {
+      "experiment_ID": "Hunsaker1996_1993",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "strip-split-plot (G. V. Richardson, personal communication, 1994), with two levels of the main treatment, CO2 concetration, replicated four times"
+    },
+    {
+      "experiment_ID": "Hunsaker1996_1994",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "strip-split-plot (G. V. Richardson, personal communication, 1994), with two levels of the main treatment, CO2 concetration, replicated four times"
+    }
+  ]
+}

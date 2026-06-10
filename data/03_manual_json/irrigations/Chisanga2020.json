@@ -1,0 +1,18 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Chisanga2020_2017",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "Irrigated field experiment"
+    },
+    {
+      "experiment_ID": "Chisanga2020_2017",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "Rainfed"
+    }
+  ]
+}

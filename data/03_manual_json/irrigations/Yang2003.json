@@ -1,0 +1,32 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Yang2003_1999_Lincoln",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "255",
+      "irrigation_operation_notes": " irrigated with a surface drip tape placed beside the plants "
+    },
+    {
+      "experiment_ID": "Yang2003_2000_Lincoln",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "255",
+      "irrigation_operation_notes": " irrigated with a surface drip tape placed beside the plants "
+    },
+    {
+      "experiment_ID": "Yang2003_2001_Lincoln",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "540",
+      "irrigation_operation_notes": "sub-surface drip irrigation was used with drip tapes placed in alternate rows"
+    },
+    {
+      "experiment_ID": "Yang2003_2002_Manchester",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "The farm does not have access to irrigation"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "1999-09-17",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "1999-10-06",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2000-09-06",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2000-09-15",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2001-09-11",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2001-09-28",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2002-09-09",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2002-09-30",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2003-09-08",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2003-09-24",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2004-09-16",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2004-10-16",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2005-09-19",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2005-09-27",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2006-09-15",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2006-09-28",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2006-09-20",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "harvest_ops_level_name": "sorghum",
+      "harvest_operations_date": "2006-11-17",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2007-09-17",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2007-09-29",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "harvest_ops_level_name": "sweetsorghum",
+      "harvest_operations_date": "2007-10-25",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2007-09-07",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "harvest_ops_level_name": "sorghum",
+      "harvest_operations_date": "2007-09-20",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2008-10-01",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "harvest_ops_level_name": "grainsorghum",
+      "harvest_operations_date": "2008-09-25",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "harvest_ops_level_name": "sweetsorghum",
+      "harvest_operations_date": "2008-10-03",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2007-10-01",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "harvest_ops_level_name": "sorghum",
+      "harvest_operations_date": "2008-11-06",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteRK",
+      "harvest_ops_level_name": "sweetsorghum",
+      "harvest_operations_date": "2009-10-05",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2009-09-24",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "harvest_ops_level_name": "sorghum",
+      "harvest_operations_date": "2009-11-03",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteRK",
+      "harvest_ops_level_name": "sweetsorghum",
+      "harvest_operations_date": "2010-10-01",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "harvest_ops_level_name": "maize",
+      "harvest_operations_date": "2010-09-21",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "harvest_ops_level_name": "sorghum",
+      "harvest_operations_date": "2010-10-29",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

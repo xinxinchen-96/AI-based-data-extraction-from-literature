@@ -1,0 +1,11 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "non-limited water"
+    }
+  ]
+}

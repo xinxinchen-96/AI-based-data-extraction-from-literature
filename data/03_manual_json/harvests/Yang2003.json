@@ -1,0 +1,32 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Yang2003_1999_Lincoln",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "1999-09-12",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Yang2003_2000_Lincoln",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "2000-08-20",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Yang2003_2001_Lincoln",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "2001-09-01",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Yang2003_2002_Manchester",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "2002-09-25",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

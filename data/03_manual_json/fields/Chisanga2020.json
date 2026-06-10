@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Chisanga2020_2017",
+      "field_name": "Mount Makulu",
+      "field_country": "Zambia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": -15.55,
+      "field_longitude": 28.25,
+      "field_elevation": 1213
+    }
+  ]
+}

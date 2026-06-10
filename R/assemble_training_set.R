@@ -20,7 +20,7 @@ library(tools)  # file name utilities
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
 
-template_path <- "./02_icasa_template/icasa_template_allColumns.xlsm" 
+template_path <- "./data/02_icasa_template/icasa_template_allColumns.xlsm" 
 
 str_datasets <- csmTools::get_field_data0(
   path = template_path,
@@ -111,13 +111,13 @@ fix_empty_df <- function(df) {
 # Write output as separate json per study and section
 lapply(names(data_by_study), function(sec) {
   subdir <- tolower(sec)
-  dir.create(file.path("./04_manual_json", subdir), showWarnings = FALSE)
+  dir.create(file.path("./data/03_manual_json", subdir), recursive = TRUE, showWarnings = FALSE)
   
   lapply(names(data_by_study[[sec]]), function(study) {
     df <- fix_empty_df(data_by_study[[sec]][[study]])
     wrapped <- setNames(list(df), sec)
     json <- jsonlite::toJSON(wrapped, pretty = TRUE, na = "null", Date = "ISO8601", POSIXt = "ISO8601")
-    writeLines(json, con = file.path("./04_manual_json", subdir, paste0(study, ".json")))
+    writeLines(json, con = file.path("./data/03_manual_json", subdir, paste0(study, ".json")))
   })
 })
 
@@ -185,10 +185,14 @@ lapply(names(training_attributes), function(sec) {
   out_basename <- paste0(section, ".jsonl")
   generate_training_file(
     sec = section,
-    md_dir = "./xx_text_markdown",  # markown folder
-    str_dir = "./04_manual_json",  # json folder
+    md_dir = "./data/01_paper_md",  # markown folder
+    str_dir = "./data/03_manual_json",  # json folder
     sys_msg = sys_msg,
     user_prompt = user_prompts[[sec]],
-    output_file = file.path("./03_training_data", out_basename)  # training data name
+    output_file = file.path("./data/05_training_data", out_basename)  # training data name
   )
 })
+
+
+# NB: had to rename Iqba2013 (> Iqbal2014) and Kimball1995 (> ###) due to naming inconsistencies in template
+# and markdowns
