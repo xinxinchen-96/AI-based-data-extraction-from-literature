@@ -1,3 +1,9 @@
+https://doi.org/10.1016/j.eja.2017.12.004>
+
+Received 19 July 2017; Received in revised form 20 November 2017; Accepted 15 December 2017 Available online 23 December 2017
+
+1161-0301/ ©
+
 ![](_page_0_Picture_1.jpeg)
 
 Contents lists available at [ScienceDirect](http://www.sciencedirect.com/science/journal/11610301)
@@ -18,41 +24,7 @@ INRA, UMR 1248 AGIR, CS 52 627, Université de Toulouse, INPT, 31326 Castanet-To
 
 # ARTICLE INFO
 
-Keywords: Calibration Catch crop Evaluation Sowing Water
-
-ABSTRACT
-
-Cover crops are increasingly used in agriculture to provide a variety of ecosystem services (e.g. reducing nitrogen leaching, storing carbon in soils) during fallow periods, but it can be challenging to successfully establish them in summer, when water availability may be low. Thus, it is crucial to better quantify, understand and predict the emergence date of a variety of cover crops from multiple contexts in impact assessment studies. The objectives of this study were to 1) analyze variability in emergence dynamics among cover crops grown in fields, 2) identify variables that influence emergence the most and use them to develop a simple model to predict emergence date and 3) calibrate the STICS model to improve its predictions of cover crop emergence. STICS was chosen because it is a dynamic soil-plant model widely validated in the literature for simulating the production of cover crop services. We analyzed emergence dynamics of ten cover crop species sown under a variety of soil, climate and sowing conditions from 18 experimental sites across France. We developed and independently evaluated a static model based on these data to predict the number of days until emergence. We then calibrated STICS using the same data. Results revealed a mean emergence duration of 12 days for all species, but with high variability among experimental sites and years. The simple static model contained only three variables, with the number of consecutive days without significant water input after sowing the most significant. Overall, both the model and STICS predicted emergence date well in the calibration and validation datasets. Accurate prediction of soil moisture in the seedbed and soil water balance is a key factor to accurately predict cover crop emergence. Accurately predicting emergence of cover crops in crop models will help to assess the former's ability to provide ecosystem services in cropping systems in current and future climates.
-
-# 1. Introduction
-
-Cover cropping is an agroecological practice that is increasingly used in agriculture to provide a variety of ecosystem services during fallow periods (i.e. between two cash crops). They are commonly used to decrease nitrate leaching in autumn and winter and thus decrease water pollution (e.g. [Teixeira et al., 2016](#page-8-0)). They can also increase nitrogen (N) availability for the subsequent cash crop due to mineralization of cover crop residues incorporated into the soil. Legume species increase this "green manure" service by fixing atmospheric N2 ([Thorup-Kristensen et al., 2003;](#page-8-1) [Tonitto et al., 2006](#page-8-2)). In the long-term, cover crops increase organic carbon (C) and N in agricultural soil (e.g. [Poeplau and Don, 2015](#page-8-3)) and can decrease net greenhouse gas emissions to mitigate climate change ([Basche et al., 2016](#page-8-4); [Kaye and Quemada,](#page-8-5) [2017](#page-8-5)). In temperate European climates, cover crops are usually sown in summer and grow for two or more months, depending on the duration of the fallow period, which is determined by the cash-crop succession ([Justes et al., 2012](#page-8-6)). One major challenge to obtaining desired ecosystem services within a few months in regions with dry summers is to establish a cover crop with sufficient plant density in summer, when water availability in the seedbed may be low due to high temperatures, high evaporation and low rainfall ([Dorsainvil et al., 2005](#page-8-7); [Jacobsen](#page-8-8) [et al., 2010](#page-8-8)). Seedling emergence is a crucial process that depends on soil and climate conditions and species characteristics. In dry areas where water is often scarce, cover crop emergence is especially challenging because the seedbed after the preceding cash crop may be dry and the rainfall erratic during summer. Climate conditions in these areas can delay emergence of the cover crop greatly, cause it to have heterogeneous plant density or fail to establish ([Constantin et al.,](#page-8-9) [2015a](#page-8-9)). Delayed emergence can decrease greatly the ecosystem services that cover crops produce, which needs to be considered when estimating cover crop impacts. It is crucial to be able to accurately predict the date of cover crop emergence for a wide range of species, especially under summer sowing conditions. Cover crop species differ in their
-
-<span id="page-0-0"></span>⁎ Corresponding authors.
-
-E-mail addresses: [helene.tribouillois@inra.fr](mailto:helene.tribouillois@inra.fr) (H. Tribouillois), [julie.constantin@inra.fr](mailto:julie.constantin@inra.fr) (J. Constantin).
-
-<span id="page-0-1"></span>1 Current address: CIRAD, UMR SYSTEM, 2 Place Pierre Viala, 34060 Montpellier, France.
-
-<https://doi.org/10.1016/j.eja.2017.12.004>
-
-Received 19 July 2017; Received in revised form 20 November 2017; Accepted 15 December 2017 Available online 23 December 2017
-
-1161-0301/ © 2017 Elsevier B.V. All rights reserved.
-
-ability to germinate under thermal and hydrological stresses. In a previous laboratory study ([Tribouillois et al., 2016](#page-8-10)), we demonstrated the diverse germination abilities of a variety of cover crop species; however, emergence under field conditions remains unexplored.
-
-Implementing cover crops as an agroecological practice is increasingly found in the literature, and crop models are used to estimate their ability to provide ecosystem services, especially in crop rotations or under climate change scenarios ([Plaza-Bonilla et al., 2015;](#page-8-11) [Quemada](#page-8-12) [and Cabrera, 1995;](#page-8-12) [Schipanski et al., 2014;](#page-8-13) [Teixeira et al., 2016)](#page-8-0). The STICS soil-crop model is a dynamic model that simulates, at a daily time-step, crop development and C and N uptake as a function of climate conditions, permanent and initial soil characteristics, and crop management. For a wide range of soils, climates and cropping systems, studies have validated STICS predictions of water, N and C balances and, in particular, cover crop development, growth, N uptake and supply of ecosystem services related to the N cycle ([Constantin et al.,](#page-8-14) [2015b, 2012;](#page-8-14) [Justes et al., 2009;](#page-8-15) [Plaza-Bonilla et al., 2017)](#page-8-16).
-
-This study had three objectives:
-
-- Analyze variability in emergence dynamics among cover crop species from multiple botanical families under field conditions and a variety of sowing conditions.
-- Identify variables that influence emergence duration the most and use them to develop a static model to predict emergence duration and date.
-- Assess the ability of STICS to predict the date of cover crop emergence and then calibrate STICS to improve these predictions.
-
-We first analyzed emergence dynamics of ten cover crop species grown in different experimental fields under both stress-free and, more commonly, stressful conditions in which water stress was strong enough to delay emergence. We then used general linear modeling (GLM) to develop a simple static model of emergence duration. After assessing the current accuracy of STICS in predicting cover crop emergence, we calibrated and validated its parameters to improve these predictions.
-
-#### 2. Materials and methods
+## 2. Materials and methods
 
 # 2.1. Field experiment
 
@@ -147,143 +119,4 @@ $$P_l - O_l$$
 
 where n is the number of observations, Oi and Pi are observed and predicted values, respectively, and *o* is the mean of observed values. EF (ranges = −∞ to 1) represents model accuracy relative to the mean of observed data. As it approaches 1, the match between observed and predicted values increases; it becomes negative when the mean of observed values lies closer to observed values than predicted values do. RMSE provides absolute error, while MD provides model deviation from the line x=y. We also calculated the median difference in absolute values between the observed and the predicted values.
 
-#### 3. Results
-
-# 3.1. Experimental field emergence under optimal conditions
-
-In the Auzeville experiment, species showed high variability in emergence dynamics ([Fig. 1)](#page-4-0). Under these conditions we distinguished species with short emergence durations, such as crimson clover and turnip rape (6 days to reach maximum emergence) from those with long emergence durations, such as phacelia, faba bean and bristle oat (> 13 days to reach maximum emergence). Maximum percentage of emerged plants differed among species because three of them had low emergence: phacelia (23%), foxtail millet (33%), and Italian ryegrass (48%).
-
-# 3.2. Experimental field emergence under contrasting conditions
-
-For all species combined, mean and median emergence durations were 12 and 9.5 days, respectively; emergence duration being the number of days from sowing to emergence. Median emergence duration among different experimental sites ranged from 7 to 8 days for turnip rape and crimson clover to 12 days for faba bean and phacelia ([Fig. 2](#page-4-1)). Emergence duration tended to vary greatly among experimental sites and years (e.g. 4–38 days for purple). The four species with the largest sample sizes (white mustard, vetch, bristle oat, and Italian ryegrass) had the highest variability in emergence duration. Emergence duration varied greatly among situations except for Italian ryegrass, which had the longest mean duration and no extremely long duration. The shortest durations were observed for vetch (4 days); turnip rape and bristle oat (5 days); and crimson clover, white mustard and foxtail millet (6 days). Emergence dates depended on emergence duration and sowing date, which differed among species due to the multiple experimental sites.
-
-#### 3.3. Simple static model to predict emergence duration
-
-Applying GLM to the calibration dataset identified three influential variables for the simple static model to predict emergence duration:
-
-Emergence duration 6.9 0.29 0.44 0.03 =− × + × + × *SM DWR DDe*
-
-where SM is soil moisture (%) in the seedbed layer at sowing, DWR is the number of consecutive days without significant water input (daily rainfall or irrigation < 3 mm) after sowing and "DDe" is the number of degree days required for each species to emerge without stress. The values of DDe for each species are given in Appendix. According to the GLM, DWR, SM and DDe were significant (P < 0.001, =0.001 and =0.05, respectively) and explained 52%, 6% and 4% of the variability, respectively.
-
-For predicted emergence duration with the calibration dataset, the model obtained EF of 0.57, RMSE of 4.6 days and MD of 0.3 days ([Fig. 3](#page-4-2)a). The model predicted both long and short durations ranging from 4 to 27 days. The model predicted most situations well (mean difference between observed and predicted durations = 3.5 days) but underpredicted the longest observed emergence by 15.7 days. For predicted emergence date with the calibration dataset, the model obtained EF of 0.91 ([Fig. 3](#page-4-2)b), ranging from early emergence (11 August or DOY 223) to late (11 October or DOY 284).
-
-The static model predicted emergence duration and date nearly as well with the validation dataset, obtaining EF of 0.47 and 0.91, respectively, RMSE of 4.6 days for both and MD of 0.4 days for both ([Fig. 4](#page-5-0)a and b). Predictions of long and short emergence durations ranged from 5 to 25 days (mean difference between observed and predicted durations = 3.5 days). As with the calibration dataset, the longest durations observed (26, 25 and 30 days) in the validation dataset were underpredicted the most (by 13.6, 12.8 and 11.9 days, respectively) ([Fig. 4](#page-5-0)a). The static model predicted early and late emergence dates from the validation dataset well in summer and early autumn ([Fig. 4](#page-5-0)b).
-
-For the four species individually, the static model predicted emergence date well with the validation dataset ([Fig. 5](#page-5-1)). For bristle oat and Italian ryegrass, it obtained EF of 0.98 for both and a mean difference between observed and predicted dates of 1.2 and 2.6 days, respectively (maximum difference = 4.4 and 4.6 days, respectively). For white mustard and vetch, it obtained EF of 0.88 and 0.80, respectively, and a mean difference between observed and predicted dates of 3.7 and 4.7 days, respectively
-
-3.4. STICS prediction of emergence
-
-grass', Tu is 'turnip rape' and Ve is 'vetch'.
-
-Calibrating STICS significantly increased the accuracy of its pre-
-
-<span id="page-4-1"></span>Fig. 2. Emergence duration after sowing in the experimental field database for each cover crop species. Error bars represent a standard deviation of the variability among experimental sites and years. Cl is 'crimson clover', Fa is 'faba bean', Mi is 'foxtail millet', Mu is 'white mustard', Oa is 'bristle oat', Ph is 'phacelia', Pe is 'forage pea', Ry is 'Italian rye-
-
-<span id="page-4-0"></span>![](_page_4_Figure_1.jpeg)
-
-Fig. 1. Observed emergence dynamics (points) in days after sowing for the ten cover crop species in the irrigated experimental field in Auzeville, France, in 2012. Lines are fitted curves.
-
-![](_page_4_Figure_4.jpeg)
-
-As a result, the calibrated STICS obtained EF for emergence date of at least 0.80 for all species, except foxtail millet, faba bean and phacelia, mainly due to their small sample size (n = 4) ([Fig. 7](#page-6-1)).
-
-With the validation dataset, STICS predicted emergence dates of the four species combined relatively well, with EF of 0.84 ([Fig. 8](#page-7-0)), which was as high as that with the calibration dataset. STICS predicted both early and late emergence dates well, with a mean difference between observed and predicted emergence dates of 4 days (maximum difference = 19 days for one white mustard situation). When predicting emergence duration with the validation dataset, STICS had low EF (0.07) and low MD (0.3) but was able to predict well short and long durations that ranged from 4 to 34 days. Species with the highest observed variability in emergence duration, such as white mustard, vetch and bristle oat, had the highest predicted variability, but STICS predicted their emergence dates well [(Fig. 7](#page-6-1)e–g), with EF greater than 0.77.
-
-# 4. Discussion
-
-# 4.1. Species emergence variability and influences on model accuracy
-
-![](_page_4_Figure_9.jpeg)
-
-Cover crop emergence is a crucial process that directly influences
-
-Fig. 3. Observations versus predictions of the static model for a) emergence duration and b) emergence date (day of year or DOY) for all cover crop species based on the calibration dataset (n = 72). Dashed lines represent y = x, while solid lines represent linear regression. 'EF' is the model efficiency, "RMSE" is the root mean square error and "MD" is the mean deviation.
-
-<span id="page-4-2"></span>dictions of emergence date for all species (calibrated parameter values in the Appendix), greatly decreasing differences between observed and predicted dates ([Fig. 6](#page-6-0)). Mean difference between observed and
-
-<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
-
-Fig. 4. Observations versus predictions of the static model for a) emergence duration and b) emergence date (day of year or DOY) for all cover crop species based on the validation dataset (n = 74). Dashed lines represent y = x, while solid lines represent linear regression. "EF" is the model efficiency, "RMSE" is the root mean square error and "MD" is the mean deviation.
-
-cover establishment and thus the production of ecosystem services. Our results, representing multiple experimental fields with contrasting soil, climate data and sowing dates, show that emergence duration varied greatly depending on situations of each species. This is consistent with results of [Dorsainvil et al. (2005)](#page-8-7), who observed that emergence duration of white mustard lasted from 5 days to several weeks. We found that crucifer species (e.g. white mustard) tended to have short emergence durations, which is consistent with a previous laboratory study on cover crop germination ([Tribouillois et al., 2016](#page-8-10)). This indicates that crucifer species are generally well adapted to late summer
-
-<span id="page-5-1"></span>![](_page_5_Figure_6.jpeg)
-
-Fig. 5. Observed versus predicted emergence dates (day of year or DOY) of cover crop species using the static model based on the validation dataset. Dashed lines represent y = x, while solid lines represent linear regression. "EF" is model efficiency, "RMSE" is root mean square error and "MD" is mean deviation.
-
-<span id="page-6-0"></span>![](_page_6_Figure_2.jpeg)
-
-Fig. 6. Distribution of differences between observed and predicted emergence dates with the calibration dataset using a) the original set of parameters (before calibration) and b) the new set of parameters (after calibration).
-
-sowing, even under dry conditions, because they can germinate and emerge in a few days after rainfall or in moderately wet seedbeds. Conversely, legumes such as faba bean had longer emergence durations due to slower seed imbibition caused by their large seeds. Phacelia also tended to have longer emergence durations, probably because its thick waxy cuticle makes it sensitive to high temperatures and water stress (due to low water potential) at sowing ([Tribouillois et al., 2016)](#page-8-10). Species-specific sensitivities to temperature and water availability at sowing may explain the large variability in emergence duration observed among experimental fields. Temperature and water availability are the main drivers of germination and emergence and are widely represented in models by base temperature and base water potential, respectively ([Dürr et al., 2015](#page-8-21); [Gonzalez-Andujar et al., 2016;](#page-8-22) [Renzi](#page-8-23) [et al., 2017](#page-8-23)). The Auzeville experiment in 2012 allowed all species to be compared at the same time under similar soil conditions. Although most species had high maximum percentages of emerged plants (80–100%), some had percentages below 50%, indicating a final plant density much lower than expected. This low emergence can be explained by lowquality seed lots (e.g. high variability in emergence potential, presence of hard seeds…) ([Uzun and Aydin, 2004](#page-8-24)), which must be considered in simulations to accurately predict plant density.
-
-<span id="page-6-1"></span>It is necessary to consider the main drivers of variability in
-
-emergence observed among cover crop species in the field to accurately predict emergence dates under a wide range of conditions. In our study, the emergence duration was driven by the number of degree days required to reach emergence (static model) or germination (STICS). In STICS, parameters for species sensitivity to temperature and water availability were used as plant parameters. Consequently, STICS was parametrized for each species, while the static model was developed for all cover crop species but has one species-specific parameter that considers species behavior as degree days to emerge.
-
-#### 4.2. Water availability: main driver of emergence
-
-The simple static model was built from several management, soil and climate variables. Of these, water availability variables (two of the model's three variables) had the greatest influence on its emergence predictions. This influence is consistent with other crop emergence models, which identify soil water potential as particularly important for predicting crop emergence ([Bullied et al., 2012](#page-8-25)). In weed science, several emergence models based mainly on degree-day and hydrothermal time have been developed ([Guillemin et al., 2013](#page-8-26); [Martinson](#page-8-27) [et al., 2007](#page-8-27); [Renzi et al., 2017](#page-8-23)). The most influential variable was the number of consecutive days without significant rain or irrigation after
-
-![](_page_6_Figure_9.jpeg)
-
-Fig. 7. Observed versus predicted emergence dates (day of year or DOY) of cover crop species using the STICS soil-crop model based on the (a-b-c-d) calibration dataset and (e-f-g) validation dataset. Dashed lines represent y = x. "EF" is model efficiency, "RMSE" is root mean square error and "MD" is mean deviation.
-
-<span id="page-7-0"></span>![](_page_7_Figure_2.jpeg)
-
-Fig. 8. Observed versus predicted a) emergence duration and b) emergence date (day of year or DOY) for all cover crop species using the STICS soil-crop model based on the validation dataset (n = 74). Dashed lines represent y = x, while solid lines represent linear regression for all species combined. "EF" is "efficiency", "RMSE" is "root mean scare error" and "MD" is "mean deviation".
-
-sowing, of which the former can be calculated from easily available climate data. The second most influential variable was soil moisture at sowing, which although not always available, is simple to measure in the seedbed or to estimate using a dynamic model, such as STICS. Even without this variable, the static model predicts emergence date well (results not shown), since soil moisture at sowing had much less variability in our database than rainfall or irrigation after sowing. This is consistent with [Constantin et al. (2015a)](#page-8-9), who predicted cover crop emergence with the mechanistic emergence model SIMPLE. They found that water stress was the main cause of delayed emergence in summer under temperate French conditions. This high sensitivity of emergence earliness to water availability indicates the need to adapt the sowing date to weather conditions by closely monitoring rainfall forecasts. However, the sowing date also depends strongly on when the preceding cash crop was harvested; thus, it cannot always occur during the most suitable weather period. Irrigating cover crops after sowing could help ensure sufficient cover crop establishment to provide optimum production of ecosystem services during fallow periods.
-
-#### 4.3. Two complementary emergence-modeling approaches
-
-We developed two modeling approaches that accurately predicted emergence dates of cover crops. One was based on statistical modeling, which has the advantage of being simple to use for many users and requiring few input data. The model developed could be integrated into simple empirical soil-crop models as an emergence module without greatly increasing the number of parameters. Another potential use is as a stand-alone model to study cover crop emergence under contrasting conditions. In contrast, improving the emergence module of STICS was particularly useful, because the model can predict 1) impacts of cover crops beyond emergence, growth and resource acquisition during fallow periods and 2) some ecosystem services (N, C and water) produced by cover crops under a wide range of conditions. Nevertheless, both modeling approaches predicted emergence dates with similar accuracy, with most differences between observed and predicted dates being less than 5 days. The static model, however, tended to underestimate long emergence durations and could continue to underpredict them outside of our database. Underestimates could be due to the coefficients and variables in the static model and the fact that the calibration dataset included mainly short emergence durations; its did not have enough long emergence durations to influence parameter values greatly. In contrast, STICS predicted durations with low deviation, probably because its emergence module is dynamic and more processbased. But STICS predictions are sensitive to initial soil conditions, especially soil moisture of the seedbed. Dry weather could explain some of the variability in its predicted emergence durations. The observed data, however, may have had some inaccuracies due to factors such as 1) spatial variability in experimental fields as soil surface structure and low accuracy in measuring sowing depth and soil moisture in the seedbed, 2) too few observations to determine exact dates of emergence, and 3) variability of determining dates of emergence among observers. Moreover, cover crops can experience biotic stress such as damping-off ([Dorsainvil et al., 2005](#page-8-7)) or pest damage ([Ichihara et al.,](#page-8-28) [2011](#page-8-28)), which was not always accurately measured in the experiments in our database. Few empirical data are available on emergence, especially for cover crops, which limits progress in modeling emergence date and emerged plant density. Thus, future studies are needed to obtain more data on crop emergence, which strongly influences crop establishment.
-
-#### 5. Conclusion
-
-Emergence dates of cover crop species were predicted well by developing a simple static model and calibrating the STICS process-based soil-crop model. Emergence is particularly crucial for cover crop establishment, especially in dry areas. Since water availability influences emergence the most, accurate measurement or prediction of soil moisture in the seedbed or soil water balance is key to accurately predicting cover crop emergence, which is essential to assess the ability of cover crops to provide ecosystem services in cropping systems in current and future climates.
-
-#### Acknowledgments
-
-This research was supported by the French ADEME agency (REACTIF program) which granted the CiCC project and the Adour-Garonne Water Agency through funding for supporting the BAG'AGES project. We thank those who produced or made available the data used in this study, from INRA, Arvalis – Institut du Végétal and GEVES project (CASDAR program). We thank M.L. and M.S. Corson for improving the English in the manuscript.
-
-# Appendix A. Supplementary data
-
-Supplementary data associated with this article can be found, in the online version, at <https://doi.org/10.1016/j.eja.2017.12.004>.
-
-#### References
-
-- <span id="page-8-4"></span>Basche, A.D., Archontoulis, S.V., Kaspar, T.C., Jaynes, D.B., Parkin, T.B., Miguez, F.E., 2016. Simulating long-term impacts of cover crops and climate change on crop production and environmental outcomes in the Midwestern United States. Agric. Ecosyst. Environ. 218, 95–106. <http://dx.doi.org/10.1016/j.agee.2015.11.011>.
-- <span id="page-8-18"></span>[Brisson, N., Launay, M., Mary, B., Beaudoin, N., 2008. Conceptual basis, formalisations](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0010) [and parameterization of the STICS crop model, Quae edition. Versailles, France, ISBN](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0010) [978-2-7592-0 290-4, 171p.](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0010)
-- <span id="page-8-25"></span>Bullied, W.J., van Acker, R.C., Bullock, P.R., 2012. Hydrothermal modeling of seedling emergence timing across topography and soil depth. Agron. J. 104, 423–436. [http://](http://dx.doi.org/10.2134/agronj2011.0257) [dx.doi.org/10.2134/agronj2011.0257.](http://dx.doi.org/10.2134/agronj2011.0257)
-- Constantin, J., Beaudoin, N., Launay, M., Duval, J., Mary, B., 2012. Long-term nitrogen dynamics in various catch crop scenarios: test and simulations with STICS model in a temperate climate. Agric. Ecosyst. Environ. 147, 36–46. [http://dx.doi.org/10.1016/j.](http://dx.doi.org/10.1016/j.agee.2011.06.006) [agee.2011.06.006.](http://dx.doi.org/10.1016/j.agee.2011.06.006)
-- <span id="page-8-9"></span>Constantin, J., Dürr, C., Tribouillois, H., Justes, E., 2015a. Catch crop emergence success depends on weather and soil seedbed conditions in interaction with sowing date: a simulation study using the SIMPLE emergence model. Field Crop Res. 176, 22–33. [http://dx.doi.org/10.1016/j.fcr.2015.02.017.](http://dx.doi.org/10.1016/j.fcr.2015.02.017)
-- <span id="page-8-14"></span>Constantin, J., Le Bas, C., Justes, E., 2015b. Large-scale assessment of optimal emergence and destruction dates for cover crops to reduce nitrate leaching in temperate conditions using the STICS soil–crop model. Eur. J. Agron. 69, 75–87. [http://dx.doi.org/](http://dx.doi.org/10.1016/j.eja.2015.06.002) [10.1016/j.eja.2015.06.002.](http://dx.doi.org/10.1016/j.eja.2015.06.002)
-- <span id="page-8-17"></span>Coucheney, E., Buis, S., Launay, M., Constantin, J., Mary, B., Ripoche, D., Beaudoin, N., Ruget, F.F., Garcia de Cortazar, I., Andrianarisoa, S., Justes, E., Léonard, J., García de Cortázar-Atauri, I., Ripoche, D., Beaudoin, N., Ruget, F.F., Andrianarisoa, K.S., Le Bas, C., Justes, E., Léonard, J., 2015. Accuracy, robustness and behavior of the STICS v-8 soil-crop model for plant, water and nitrogen outputs: evaluation over a wide range of agro-environmental conditions. Environ. Model. Softw. 64, 177–190. [http://](http://dx.doi.org/10.1016/j.envsoft.2014.11.024)
-- <span id="page-8-21"></span>[dx.doi.org/10.1016/j.envsoft.2014.11.024.](http://dx.doi.org/10.1016/j.envsoft.2014.11.024) Dürr, C., Dickie, J.B., Yang, X.-Y., Pritchard, H.W., 2015. Ranges of critical temperature
-- and water potential values for the germination of species worldwide: contribution to a seed trait database. Agric. For. Meteorol. 200, 222–232. [http://dx.doi.org/10.](http://dx.doi.org/10.1016/j.agrformet.2014.09.024) [1016/j.agrformet.2014.09.024.](http://dx.doi.org/10.1016/j.agrformet.2014.09.024)
-- <span id="page-8-7"></span>Dorsainvil, F., Dürr, C., Justes, E., Carrera, A., 2005. Characterisation and modelling of white mustard (Sinapis alba L.) emergence under several sowing conditions. Eur. J. Agron. 23, 146–158. [http://dx.doi.org/10.1016/j.eja.2004.11.002.](http://dx.doi.org/10.1016/j.eja.2004.11.002)
-- <span id="page-8-22"></span>Gonzalez-Andujar, J.L., Chantre, G.R., Morvillo, C., Blanco, A.M., Forcella, F., Freckleton, R., 2016. Predicting field weed emergence with empirical models and soft computing techniques. Weed Res. 56, 415–423. [http://dx.doi.org/10.1111/wre.12223.](http://dx.doi.org/10.1111/wre.12223)
-- <span id="page-8-19"></span>Guillaume, S., Bergez, J.-E.E., Wallach, D., Justes, E., 2011. Methodological comparison of calibration procedures for durum wheat parameters in the STICS model. Eur. J. Agron. 35, 115–126. [http://dx.doi.org/10.1016/j.eja.2011.05.003.](http://dx.doi.org/10.1016/j.eja.2011.05.003)
-- <span id="page-8-26"></span>Guillemin, J.-P., Gardarin, A., Granger, S., Reibel, C., Munier-Jolain, N., Colbach, N., 2013. Assessing potential germination period of weeds with base temperatures and base water potentials. Weed Res. 53, 76–87. [http://dx.doi.org/10.1111/wre.12000.](http://dx.doi.org/10.1111/wre.12000)
-- <span id="page-8-28"></span>Ichihara, M., Maruyama, K., Yamashita, M., Sawada, H., Inagaki, H., Ishida, Y., Asai, M., 2011. Quantifying the ecosystem service of non-native weed seed predation provided by invertebrates and vertebrates in upland wheat fields converted from paddy fields. Agric. Ecosyst. Environ. 140, 191–198. [http://dx.doi.org/10.1016/j.agee.2010.12.](http://dx.doi.org/10.1016/j.agee.2010.12.002) [002](http://dx.doi.org/10.1016/j.agee.2010.12.002).
-- <span id="page-8-8"></span>Jacobsen, K.L., Gallagher, R.S., Burnham, M., Bradley, B.B., Larson, Z.M., Walker, C.W., Watson, J.E., 2010. Mitigation of seed germination impediments in hairy vetch. Agron. J. 102, 1346–1351. <http://dx.doi.org/10.2134/agronj2010.0002n>.
-- <span id="page-8-15"></span>Justes, E., Mary, B., Nicolardot, B., 2009. Quantifying and modelling C and N mineralization kinetics of catch crop residues in soil: parameterization of the residue
-
-#### decomposition module of STICS model for mature and non mature residues. Plant Soil 325, 171–185. <http://dx.doi.org/10.1007/s11104-009-9966-4>.
-
-- <span id="page-8-6"></span>[Justes, E., Beaudoin, N., Bertuzzi, P., Charles, R., Constantin, J., Dürr, C., Hermon, C.,](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080) [Joannon, A., Le Bas, C., Mary, B., Mignolet, C., Montfort, F., Ruiz, L., Sarthou, J.-P.,](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080) [Souchère, V., Tournebize, J., Savini, I., Réchauchère, O., 2012. The use of cover crops](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080) to reduce nitrate leaching: eff[ect on the water and nitrogen balance and other eco](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080)[system services. In: The International Fertiliser Society Meeting. Cambridge. pp.](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080) 4–[43.](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0080)
-- <span id="page-8-5"></span>Kaye, J.P., Quemada, M., 2017. Using cover crops to mitigate and adapt to climate change. A review. Agron. Sustain. Dev. 37, 4. [http://dx.doi.org/10.1007/s13593-](http://dx.doi.org/10.1007/s13593-016-0410-x) [016-0410-x.](http://dx.doi.org/10.1007/s13593-016-0410-x)
-- <span id="page-8-27"></span>Martinson, K., Durgan, B., Forcella, F., Wiersma, J., Spokas, K., Archer, D., 2007. An emergence model for wild oat (Avena fatua). Weed Sci. 55, 584–591. [http://dx.doi.](http://dx.doi.org/10.1614/WS-07-059.1) [org/10.1614/WS-07-059.1.](http://dx.doi.org/10.1614/WS-07-059.1)
-- <span id="page-8-11"></span>Plaza-Bonilla, D., Nolot, J.M., Raffaillac, D., Justes, E., 2015. Cover crops mitigate nitrate leaching in cropping systems including grain legumes: field evidence and model simulations. Agric. Ecosyst. Environ. 212, 1–12. [http://dx.doi.org/10.1016/j.agee.](http://dx.doi.org/10.1016/j.agee.2015.06.014) [2015.06.014.](http://dx.doi.org/10.1016/j.agee.2015.06.014)
-- <span id="page-8-16"></span>Plaza-Bonilla, D., Léonard, J., Peyrard, C., Mary, B., Justes, E., 2017. Precipitation gradient and crop management affect N2O emissions: simulation of mitigation strategies in rainfed Mediterranean conditions. Agric. Ecosyst. Environ. 238, 89–103. [http://dx.](http://dx.doi.org/10.1016/j.agee.2016.06.003) [doi.org/10.1016/j.agee.2016.06.003.](http://dx.doi.org/10.1016/j.agee.2016.06.003)
-- <span id="page-8-3"></span>Poeplau, C., Don, A., 2015. Carbon sequestration in agricultural soils via cultivation of cover crops—a meta-analysis. Agric. Ecosyst. Environ. 200, 33–41. [http://dx.doi.org/](http://dx.doi.org/10.1016/j.agee.2014.10.024) [10.1016/j.agee.2014.10.024.](http://dx.doi.org/10.1016/j.agee.2014.10.024)
-- <span id="page-8-12"></span>[Quemada, M., Cabrera, M.L., 1995. CERES-N model predictions of nitrogen mineralized](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0110) [from cover crop residues. Soil Sci. Soc. Am. J. 59, 1059](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0110)–1065.
-- <span id="page-8-23"></span>Renzi, J.P., Chantre, G.R., Cantamutto, M.A., 2017. Vicia villosa ssp. villosa Roth field emergence model in a semiarid agroecosystem. Grass Forage Sci. 0, 1–13. [http://dx.](http://dx.doi.org/10.1111/gfs.12295) [doi.org/10.1111/gfs.12295.](http://dx.doi.org/10.1111/gfs.12295)
-- <span id="page-8-13"></span>Schipanski, M.E., Barbercheck, M., Douglas, M.R., Finney, D.M., Haider, K., Kaye, J.P., Kemanian, A.R., Mortensen, D. a., Ryan, M.R., Tooker, J., White, C., 2014. A framework for evaluating ecosystem services provided by cover crops in agroecosystems. Agric. Syst. 125, 12–22. [http://dx.doi.org/10.1016/j.agsy.2013.11.004.](http://dx.doi.org/10.1016/j.agsy.2013.11.004)
-- <span id="page-8-0"></span>Teixeira, E.I., Johnstone, P., Chakwizira, E., de Ruiter, J., Malcolm, B., Shaw, N., Zyskowski, R., Khaembah, E., Sharp, J., Meenken, E., Fraser, P., Thomas, S., Brown, H., Curtin, D., 2016. Sources of variability in the effectiveness of winter cover crops for mitigating N leaching. Agric. Ecosyst. Environ. 220, 226–235. [http://dx.doi.org/](http://dx.doi.org/10.1016/j.agee.2016.01.019) [10.1016/j.agee.2016.01.019.](http://dx.doi.org/10.1016/j.agee.2016.01.019)
-- <span id="page-8-1"></span>[Thorup-Kristensen, K., Magid, J., Jensen, L.S., 2003. Catch crops and green manures as](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0130) [biological tools in nitrogen management in temperate zones. Adv. Agron. 79,](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0130) 227–[302.](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0130)
-- <span id="page-8-2"></span>Tonitto, C., David, M.B.B., Drinkwater, L.E.E., 2006. Replacing bare fallows with cover crops in fertilizer-intensive cropping systems: a meta-analysis of crop yield and N dynamics. Agric. Ecosyst. Environ. 112, 58–72. [http://dx.doi.org/10.1016/j.agee.](http://dx.doi.org/10.1016/j.agee.2005.07.003) [2005.07.003.](http://dx.doi.org/10.1016/j.agee.2005.07.003)
-- <span id="page-8-10"></span>Tribouillois, H., Dürr, C., Demilly, D., Wagner, M., Justes, E., 2016. Determination of germination response to temperature and water potential for a wide range of cover crop species and related functional groups. PLoS One 11, e0161185. [http://dx.doi.](http://dx.doi.org/10.1371/journal.pone.0161185) [org/10.1371/journal.pone.0161185.](http://dx.doi.org/10.1371/journal.pone.0161185)
-- <span id="page-8-24"></span>[Uzun, F., Aydin, I., 2004. Improving germination rate of Medicago and Trifolium species.](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0145) [Asian J. Plant Sci. 3, 714](http://refhub.elsevier.com/S1161-0301(17)30185-5/sbref0145)–717.
-- <span id="page-8-20"></span>Wallach, D., Buis, S., Lecharpentier, P., Bourges, J., Clastre, P., Launay, M., Bergez, J.- E.E., Guerif, M., Soudais, J., Justes, E., 2011. A package of parameter estimation methods and implementation for the STICS crop-soil model. Environ. Model. Softw. 26, 386–394. [http://dx.doi.org/10.1016/j.envsoft.2010.09.004.](http://dx.doi.org/10.1016/j.envsoft.2010.09.004)
+No tables found before Methods section.
