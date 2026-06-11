@@ -1,0 +1,438 @@
+{
+  "PLOT_DETAILS": [
+    {
+      "experiment_ID": "Dettori2017_1974_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1974_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1975_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1975_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1976_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1976_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1977_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1977_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1978_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1978_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1979_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1979_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1980_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1980_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1981_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1981_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1982_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1982_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1983_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1983_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1984_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1984_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1985_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1985_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1986_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1986_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1987_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1987_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1988_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1988_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1989_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1989_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1990_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1990_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1991_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1991_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1992_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1992_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1993_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1993_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1994_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1994_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1995_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1995_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1996_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1996_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1997_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1997_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1998_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1998_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1999_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_1999_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2000_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2000_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2001_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2001_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2002_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2002_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2003_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2003_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2004_Benatzu",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    },
+    {
+      "experiment_ID": "Dettori2017_2004_Ussana",
+      "plot_length": 5.9,
+      "plot_width": 1.5,
+      "plot_area": null,
+      "plot_layout": null
+    }
+  ]
+}

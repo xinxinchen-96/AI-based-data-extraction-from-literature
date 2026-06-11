@@ -1,0 +1,18 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Boulch2021_2019_Beauvais",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Boulch2021_2019_CatillonFummenchon",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

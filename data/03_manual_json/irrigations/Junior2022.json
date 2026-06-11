@@ -1,0 +1,88 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Junior2022_2005_Colina",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Olimpia",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Junior2022_2006",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Junior2022_2007",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed"
+    },
+    {
+      "experiment_ID": "Junior2022_2013",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2014",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2015",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2016",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2019",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    },
+    {
+      "experiment_ID": "Junior2022_2020",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "irrigated by a center-pivot"
+    }
+  ]
+}

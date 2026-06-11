@@ -1,0 +1,46 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Craigie2015_2013",
+      "planting_level_name": null,
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "RB",
+      "plant_spacing": null,
+      "row_spacing": null,
+      "planting_depth": null,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Craigie2015_2014",
+      "planting_level_name": null,
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "RB",
+      "plant_spacing": null,
+      "row_spacing": null,
+      "planting_depth": null,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Craigie2015_2015",
+      "planting_level_name": null,
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "RB",
+      "plant_spacing": null,
+      "row_spacing": null,
+      "planting_depth": null,
+      "planting_notes": null
+    }
+  ]
+}

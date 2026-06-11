@@ -1,0 +1,88 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Kherif2022_2019",
+      "planting_level_name": "durumwheatmonocrop",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 17,
+      "planting_depth": null,
+      "planting_notes": "300 seeds per m2"
+    },
+    {
+      "experiment_ID": "Kherif2022_2019",
+      "planting_level_name": "chickpeamonocrop",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 34,
+      "planting_depth": null,
+      "planting_notes": "30  seeds per m2"
+    },
+    {
+      "experiment_ID": "Kherif2022_2019",
+      "planting_level_name": "durumwheatchickpeaintercropping",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 34,
+      "planting_depth": null,
+      "planting_notes": "150 and 18 seeds"
+    },
+    {
+      "experiment_ID": "Kherif2022_2020",
+      "planting_level_name": "durumwheatmonocrop",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 34,
+      "planting_depth": null,
+      "planting_notes": "300 seeds per m2"
+    },
+    {
+      "experiment_ID": "Kherif2022_2020",
+      "planting_level_name": "chickpeamonocrop",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 34,
+      "planting_depth": null,
+      "planting_notes": "30  seeds per m2"
+    },
+    {
+      "experiment_ID": "Kherif2022_2020",
+      "planting_level_name": "durumwheatchickpeaintercropping",
+      "planting_date": null,
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 34,
+      "planting_depth": null,
+      "planting_notes": "150 and 18 seeds"
+    }
+  ]
+}

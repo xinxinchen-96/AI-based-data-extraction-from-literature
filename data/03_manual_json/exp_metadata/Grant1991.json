@@ -1,0 +1,17 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Grant1991_1983",
+      "name_of_experiment": "field trials",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "3",
+      "experimental_design": null,
+      "main_experiment_factor": "Nitrogen fertiliser level",
+      "experimental_factor_comb": "three types of fertilizer",
+      "experiment_duration": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Tian2017_2013",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Tian2017_2014",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Tian2017_2015",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Tian2017_2016",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    }
+  ]
+}

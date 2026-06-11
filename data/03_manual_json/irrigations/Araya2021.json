@@ -1,0 +1,39 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Araya2021_2004_Mekelle",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed condition"
+    },
+    {
+      "experiment_ID": "Araya2021_2008_Mekelle",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed condition"
+    },
+    {
+      "experiment_ID": "Araya2021_2009_Mekelle",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed condition"
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Maychew",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed condition"
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Mekelle",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": "rainfed condition"
+    }
+  ]
+}

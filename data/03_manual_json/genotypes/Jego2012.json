@@ -1,0 +1,102 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Jego2012_1999",
+      "crop_ident_ICASA": "SBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2000",
+      "crop_ident_ICASA": "MAZ",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2000",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2001",
+      "crop_ident_ICASA": "SBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2001",
+      "crop_ident_ICASA": "MAZ",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2002",
+      "crop_ident_ICASA": "MAZ",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2003",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2004",
+      "crop_ident_ICASA": "SBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2005",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2006",
+      "crop_ident_ICASA": "MAZ",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2007",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2007",
+      "crop_ident_ICASA": "SBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2008",
+      "crop_ident_ICASA": "SBN",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Jego2012_2008",
+      "crop_ident_ICASA": "MAZ",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    }
+  ]
+}

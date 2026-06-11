@@ -1,0 +1,46 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Bechini2005_1987",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1988",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1990",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1991",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1997",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    }
+  ]
+}

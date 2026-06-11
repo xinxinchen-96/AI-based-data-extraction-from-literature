@@ -1,0 +1,69 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Araya2021_2004_Mekelle",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "6",
+      "experimental_design": "randomized complete block design",
+      "main_experiment_factor": "planting date",
+      "experimental_factor_comb": "Tied ridging with three planting dates",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Araya2021_2008_Mekelle",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "6",
+      "experimental_design": "randomized complete block design",
+      "main_experiment_factor": "planting date",
+      "experimental_factor_comb": "Tied ridging with three planting dates",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Araya2021_2009_Mekelle",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "6",
+      "experimental_design": "randomized complete block design",
+      "main_experiment_factor": "planting date",
+      "experimental_factor_comb": "Tied ridging with three planting dates",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Maychew",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "6",
+      "experimental_design": "randomized complete block design",
+      "main_experiment_factor": "planting date",
+      "experimental_factor_comb": "Tied ridging with three planting dates",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Mekelle",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "6",
+      "experimental_design": "randomized complete block design",
+      "main_experiment_factor": "planting date",
+      "experimental_factor_comb": "Tied ridging with three planting dates",
+      "experiment_duration": 1
+    }
+  ]
+}

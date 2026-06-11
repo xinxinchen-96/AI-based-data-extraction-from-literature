@@ -1,0 +1,256 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Ventrella2016_1977",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Valgerardo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1978",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Valgerardo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1979",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Valgerardo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1980",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Valgerardo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1981",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Valgerardo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1982",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appulo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1983",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appulo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1984",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appulo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1985",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appulo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1986",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appulo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1987",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Latino",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1988",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Latino",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1989",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Latino",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1990",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Latino",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1991",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Latino",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1992",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appio",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1993",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appio",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1994",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appio",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1995",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Appio",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1996",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1997",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1998",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_1999",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2000",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2001",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2002",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2003",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2004",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2005",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Ofanto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2006",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2007",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2008",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2009",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2010",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2011",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Ventrella2016_2012",
+      "crop_ident_ICASA": "WHD",
+      "cultivar_name": "Simeto",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    }
+  ]
+}

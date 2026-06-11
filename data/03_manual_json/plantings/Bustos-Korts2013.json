@@ -1,0 +1,60 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Bustos-Korts2013_2009",
+      "planting_level_name": null,
+      "planting_date": "2008-08-23",
+      "emergence_date": null,
+      "plant_pop_at_planting": 350,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 15,
+      "planting_depth": null,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Bustos-Korts2013_2010",
+      "planting_level_name": null,
+      "planting_date": "2009-09-04",
+      "emergence_date": null,
+      "plant_pop_at_planting": 350,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 15,
+      "planting_depth": null,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Bustos-Korts2013_2011",
+      "planting_level_name": "conventional density",
+      "planting_date": "2010-08-22",
+      "emergence_date": null,
+      "plant_pop_at_planting": 350,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": null,
+      "planting_depth": null,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Bustos-Korts2013_2011",
+      "planting_level_name": "low density",
+      "planting_date": "2010-08-22",
+      "emergence_date": null,
+      "plant_pop_at_planting": 44,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": null,
+      "planting_depth": null,
+      "planting_notes": null
+    }
+  ]
+}

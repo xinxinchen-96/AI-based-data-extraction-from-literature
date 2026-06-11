@@ -1,0 +1,102 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Junior2022_2005_Colina",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Olimpia",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "R570",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB72454",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "SP832847",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "NCo376",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2006",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2007",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2013",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2014",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2015",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2016",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2019",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2020",
+      "crop_ident_ICASA": "SUC",
+      "cultivar_name": "RB867515",
+      "crop_intended_use": null,
+      "cultivar_notes": null
+    }
+  ]
+}

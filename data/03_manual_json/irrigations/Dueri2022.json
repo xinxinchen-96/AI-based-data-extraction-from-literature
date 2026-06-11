@@ -1,0 +1,46 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Dueri2022_2013_Leeston",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "0",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2014_Leeston",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "0",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2015_Leeston",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "30",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2016_Wakanui",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "210",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2017_Wakanui",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "50",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Dueri2022_2018_Wakanui",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": "125",
+      "irrigation_operation_notes": null
+    }
+  ]
+}

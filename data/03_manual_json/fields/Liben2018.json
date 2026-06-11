@@ -1,0 +1,94 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Liben2018_2010_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2011_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2012_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2013_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2014_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2015_Bako",
+      "field_name": "Bako",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 9.07,
+      "field_longitude": 37.03,
+      "field_elevation": 1650
+    },
+    {
+      "experiment_ID": "Liben2018_2015_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    },
+    {
+      "experiment_ID": "Liben2018_2016_Bako",
+      "field_name": "Bako",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 9.07,
+      "field_longitude": 37.03,
+      "field_elevation": 1650
+    },
+    {
+      "experiment_ID": "Liben2018_2016_Melkassa",
+      "field_name": "Melkassa",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 8.4,
+      "field_longitude": 39.33,
+      "field_elevation": 1550
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Shoukat2024_2021",
+      "planting_level_name": null,
+      "planting_date": "2020-10-12",
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 15,
+      "planting_depth": 40,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Shoukat2024_2022",
+      "planting_level_name": null,
+      "planting_date": "2021-10-10",
+      "emergence_date": null,
+      "plant_pop_at_planting": null,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 15,
+      "planting_depth": 40,
+      "planting_notes": null
+    }
+  ]
+}

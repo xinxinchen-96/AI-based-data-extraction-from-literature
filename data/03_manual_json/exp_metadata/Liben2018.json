@@ -1,0 +1,121 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Liben2018_2010_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2011_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2012_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2013_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2014_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2015_Bako",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "10",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "two-tillage practices with maize monoculture, soybean (Glycine max L.) monoculture, maize-soybean rotation, soybeanmaize rotation, and maize-soybean intercropping at Bako",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2015_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2016_Bako",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "10",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "two-tillage practices with maize monoculture, soybean (Glycine max L.) monoculture, maize-soybean rotation, soybeanmaize rotation, and maize-soybean intercropping at Bako",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Liben2018_2016_Melkassa",
+      "name_of_experiment": "field experiments ",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "8",
+      "experimental_design": "factorial split-plot design with tillage assigned to the main plots and cropping systems to the sub-plots",
+      "main_experiment_factor": "Tillage",
+      "experimental_factor_comb": "maize (Zea mays L.) monoculture, dry bean (Phaseolus vulgaris L.) monoculture, maize-dry bean rotation, and maize-dry bean intercropping at Melkassa",
+      "experiment_duration": 1
+    }
+  ]
+}

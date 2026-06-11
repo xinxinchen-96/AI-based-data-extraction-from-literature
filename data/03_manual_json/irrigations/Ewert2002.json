@@ -1,0 +1,88 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Ewert2002_1993_Maricopa",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "592",
+      "irrigation_operation_notes": "including an amount of 317mm, which was given between sowing and emergence"
+    },
+    {
+      "experiment_ID": "Ewert2002_1993_Maricopa",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "919",
+      "irrigation_operation_notes": " including an amount of 317mm, which was given between sowing and emergence"
+    },
+    {
+      "experiment_ID": "Ewert2002_1994_Maricopa",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "278",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1994_Maricopa",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "629",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Braunschweig",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "154",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Braunschweig",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "382",
+      "irrigation_operation_notes": " value refers to ambient CO2 treatment, irrigation amount in the elevatedCO2 was 324mm"
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Giessen",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "309",
+      "irrigation_operation_notes": "value refers to ambient CO2 treatments, irrigation amounts in the elevated CO2 treatments were 316 and 596 mm for WS and WW, respectively"
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Giessen",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "598",
+      "irrigation_operation_notes": "value refers to ambient CO2 treatments, irrigation amounts in the elevated CO2 treatments were 316 and 596 mm for WS and WW, respectively"
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Braunschweig",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "169",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Braunschweig",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "427",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Giessen",
+      "irrigation_operation_name": "WS",
+      "irrigation_date": null,
+      "irrig_amount_depth": "102",
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Giessen",
+      "irrigation_operation_name": "WW",
+      "irrigation_date": null,
+      "irrig_amount_depth": "434",
+      "irrigation_operation_notes": null
+    }
+  ]
+}

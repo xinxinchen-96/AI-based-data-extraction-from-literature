@@ -1,0 +1,18 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Burak2023_2020_Common_Hart",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Burak2023_2020_Foxfield",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    }
+  ]
+}

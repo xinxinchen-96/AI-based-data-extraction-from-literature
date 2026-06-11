@@ -1,0 +1,56 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Yang2003_1999_Lincoln",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "4",
+      "number_of_treatments": "18",
+      "experimental_design": "split–split plot randomized complete block",
+      "main_experiment_factor": " three levels of plant population density",
+      "experimental_factor_comb": " Crop rotations (continuous maize, maize–soybean, soybean–maize) were main plot treatments, three levels of plant population density were sub-plot treatments (D1, D2, D3), and two levels of fertilizer-nutrient management were sub–subplot treatments (M1: recommended fertilizer rates, M2: intensive nutrient management)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Yang2003_2000_Lincoln",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "4",
+      "number_of_treatments": "18",
+      "experimental_design": "split–split plot randomized complete block",
+      "main_experiment_factor": " three levels of plant population density",
+      "experimental_factor_comb": " Crop rotations (continuous maize, maize–soybean, soybean–maize) were main plot treatments, three levels of plant population density were sub-plot treatments (D1, D2, D3), and two levels of fertilizer-nutrient management were sub–subplot treatments (M1: recommended fertilizer rates, M2: intensive nutrient management)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Yang2003_2001_Lincoln",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "4",
+      "number_of_treatments": "18",
+      "experimental_design": "split–split plot randomized complete block",
+      "main_experiment_factor": " three levels of plant population density",
+      "experimental_factor_comb": " Crop rotations (continuous maize, maize–soybean, soybean–maize) were main plot treatments, three levels of plant population density were sub-plot treatments (D1, D2, D3), and two levels of fertilizer-nutrient management were sub–subplot treatments (M1: recommended fertilizer rates, M2: intensive nutrient management)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Yang2003_2002_Manchester",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": null,
+      "experimental_design": null,
+      "main_experiment_factor": null,
+      "experimental_factor_comb": null,
+      "experiment_duration": null
+    }
+  ]
+}

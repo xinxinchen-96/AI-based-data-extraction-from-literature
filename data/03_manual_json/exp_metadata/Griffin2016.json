@@ -1,0 +1,56 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Griffin2016_2012",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "1",
+      "number_of_treatments": "16",
+      "experimental_design": "2 2-factorial treatment design,randomized complete block design with four blocks",
+      "main_experiment_factor": "Biochar application",
+      "experimental_factor_comb": "Composted poultry manure fertilizer with biochar application (CPB);Composted poultry manure fertilizer without biochar application (CP);Mineral fertilizer with biochar application (MFB);Mineral fertilizer without biochar application (MF)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Griffin2016_2013",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "1",
+      "number_of_treatments": "16",
+      "experimental_design": "2 2-factorial treatment design,randomized complete block design with four blocks",
+      "main_experiment_factor": "Biochar application",
+      "experimental_factor_comb": "Composted poultry manure fertilizer with biochar application (CPB);Composted poultry manure fertilizer without biochar application (CP);Mineral fertilizer with biochar application (MFB);Mineral fertilizer without biochar application (MF)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Griffin2016_2014",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "1",
+      "number_of_treatments": "16",
+      "experimental_design": "2 2-factorial treatment design,randomized complete block design with four blocks",
+      "main_experiment_factor": "Biochar application",
+      "experimental_factor_comb": "Composted poultry manure fertilizer with biochar application (CPB);Composted poultry manure fertilizer without biochar application (CP);Mineral fertilizer with biochar application (MFB);Mineral fertilizer without biochar application (MF)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Griffin2016_2015",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": "1",
+      "number_of_treatments": "16",
+      "experimental_design": "2 2-factorial treatment design,randomized complete block design with four blocks",
+      "main_experiment_factor": "Biochar application",
+      "experimental_factor_comb": "Composted poultry manure fertilizer with biochar application (CPB);Composted poultry manure fertilizer without biochar application (CP);Mineral fertilizer with biochar application (MFB);Mineral fertilizer without biochar application (MF)",
+      "experiment_duration": 1
+    }
+  ]
+}

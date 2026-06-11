@@ -1,0 +1,32 @@
+{
+  "PLOT_DETAILS": [
+    {
+      "experiment_ID": "Yang2003_1999_Lincoln",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "Sub–subplots were 6:1 m - 15:2 m in size "
+    },
+    {
+      "experiment_ID": "Yang2003_2000_Lincoln",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "Sub–subplots were 6:1 m - 15:2 m in size "
+    },
+    {
+      "experiment_ID": "Yang2003_2001_Lincoln",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "Sub–subplots were 6:1 m - 15:2 m in size "
+    },
+    {
+      "experiment_ID": "Yang2003_2002_Manchester",
+      "plot_length": null,
+      "plot_width": null,
+      "plot_area": null,
+      "plot_layout": "within a 12 m - 150 m strip of a high-yield field ('Visitor Plot')"
+    }
+  ]
+}

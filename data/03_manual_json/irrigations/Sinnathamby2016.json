@@ -1,0 +1,382 @@
+{
+  "IRRIGATIONS": [
+    {
+      "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "April"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "May"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "June"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "July"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "50.8",
+      "irrigation_operation_notes": "August"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+      "irrigation_operation_name": "sorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+      "irrigation_operation_name": "sweetsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "April"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "May"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "June"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "July"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "50.8",
+      "irrigation_operation_notes": "August"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+      "irrigation_operation_name": "sorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "irrigation_operation_name": "grainsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+      "irrigation_operation_name": "sweetsorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "April"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "May"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "June"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "July"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "50.8",
+      "irrigation_operation_notes": "August"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+      "irrigation_operation_name": "sorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteRK",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "April"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "May"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "June"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "July"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "50.8",
+      "irrigation_operation_notes": "August"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+      "irrigation_operation_name": "sorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteRK",
+      "irrigation_operation_name": null,
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "April"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "76.2",
+      "irrigation_operation_notes": "May"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "June"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "152.4",
+      "irrigation_operation_notes": "July"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "maize",
+      "irrigation_date": null,
+      "irrig_amount_depth": "50.8",
+      "irrigation_operation_notes": "August"
+    },
+    {
+      "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+      "irrigation_operation_name": "sorghum",
+      "irrigation_date": null,
+      "irrig_amount_depth": null,
+      "irrigation_operation_notes": null
+    }
+  ]
+}

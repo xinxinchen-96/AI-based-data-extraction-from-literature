@@ -1,0 +1,81 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Junior2022_2005_Colina",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/06/2005",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Olimpia",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/06/2005",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2005_Piracicaba",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/07/2005",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2006",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/09/2006",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2007",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "08/09/2007",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2013",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/10/2013",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2014",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "15/07/2014",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2015",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "08/06/2015",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2016",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "08/06/2016",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2019",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "30/11//2019",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Junior2022_2020",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": "04/11/2020",
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}

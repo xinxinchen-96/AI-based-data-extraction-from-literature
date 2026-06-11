@@ -1,0 +1,60 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Kimball1999_1993",
+      "planting_level_name": null,
+      "planting_date": "1992-12-15",
+      "emergence_date": "1993-01-01",
+      "plant_pop_at_planting": 130,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 25,
+      "planting_depth": null,
+      "planting_notes": "Certified Yecora Rojo wheat seed was planted at mid-December in all seasons in east-west rows"
+    },
+    {
+      "experiment_ID": "Kimball1999_1994",
+      "planting_level_name": null,
+      "planting_date": "1993-12-08",
+      "emergence_date": "1993-12-28",
+      "plant_pop_at_planting": 186,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 25,
+      "planting_depth": null,
+      "planting_notes": "Certified Yecora Rojo wheat seed was planted at mid-December in all seasons in east-west rows"
+    },
+    {
+      "experiment_ID": "Kimball1999_1996",
+      "planting_level_name": null,
+      "planting_date": "1995-12-15",
+      "emergence_date": "1996-01-01",
+      "plant_pop_at_planting": 189,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 25,
+      "planting_depth": null,
+      "planting_notes": "Certified Yecora Rojo wheat seed was planted at mid-December in all seasons in east-west rows"
+    },
+    {
+      "experiment_ID": "Kimball1999_1997",
+      "planting_level_name": null,
+      "planting_date": "1996-12-15",
+      "emergence_date": "1997-01-03",
+      "plant_pop_at_planting": 194,
+      "plant_pop_at_emergence": null,
+      "planting_material": "S",
+      "planting_distribution": "R",
+      "plant_spacing": null,
+      "row_spacing": 25,
+      "planting_depth": null,
+      "planting_notes": "Certified Yecora Rojo wheat seed was planted at mid-December in all seasons in east-west rows"
+    }
+  ]
+}

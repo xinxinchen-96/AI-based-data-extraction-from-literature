@@ -1,0 +1,30 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Shoukat2024_2021",
+      "name_of_experiment": "experimental farm",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "5",
+      "experimental_design": "randomized complete block design (RCBD)",
+      "main_experiment_factor": "Nitrogen fertilization",
+      "experimental_factor_comb": "five different treatments, including the application of nitrogen (N)",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Shoukat2024_2022",
+      "name_of_experiment": "experimental farm",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT002",
+      "number_of_replicates": "3",
+      "number_of_treatments": "5",
+      "experimental_design": "randomized complete block design (RCBD)",
+      "main_experiment_factor": "Nitrogen fertilization",
+      "experimental_factor_comb": "five different treatments, including the application of nitrogen (N)",
+      "experiment_duration": 1
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "EXP_METADATA": [
+    {
+      "experiment_ID": "Ewert2002_1993_Maricopa",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Ewert2002_1994_Maricopa",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Braunschweig",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Ewert2002_1998_Giessen",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Braunschweig",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    },
+    {
+      "experiment_ID": "Ewert2002_1999_Giessen",
+      "name_of_experiment": "field experiment",
+      "experiment_type": "ET001",
+      "objectives_of_study": null,
+      "management_type": "MT001",
+      "number_of_replicates": null,
+      "number_of_treatments": "4",
+      "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+      "main_experiment_factor": "Atmospheric CO2 concentration",
+      "experimental_factor_comb": "Atmospheric CO2 concentration x irrigation amount",
+      "experiment_duration": 1
+    }
+  ]
+}

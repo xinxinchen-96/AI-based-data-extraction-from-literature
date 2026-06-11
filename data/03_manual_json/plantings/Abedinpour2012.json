@@ -1,0 +1,32 @@
+{
+  "PLANTINGS": [
+    {
+      "experiment_ID": "Abedinpour2012_2009",
+      "planting_level_name": null,
+      "planting_date": "2009-07-22",
+      "emergence_date": null,
+      "plant_pop_at_planting": 6.6667,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": 20,
+      "row_spacing": 75,
+      "planting_depth": 40,
+      "planting_notes": null
+    },
+    {
+      "experiment_ID": "Abedinpour2012_2010",
+      "planting_level_name": null,
+      "planting_date": "2010-07-16",
+      "emergence_date": null,
+      "plant_pop_at_planting": 6.6667,
+      "plant_pop_at_emergence": null,
+      "planting_material": null,
+      "planting_distribution": "R",
+      "plant_spacing": 20,
+      "row_spacing": 75,
+      "planting_depth": 40,
+      "planting_notes": null
+    }
+  ]
+}

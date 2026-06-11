@@ -1,0 +1,301 @@
+{
+  "FERTILIZERS": [
+    {
+      "experiment_ID": "Bechini2005_1987",
+      "fertilizer_level_name": "0 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1987",
+      "fertilizer_level_name": "140 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "140",
+      "N_in_applied_fertilizer": "140",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1987",
+      "fertilizer_level_name": "210 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "210",
+      "N_in_applied_fertilizer": "210",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1988",
+      "fertilizer_level_name": "0 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1988",
+      "fertilizer_level_name": "140 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "140",
+      "N_in_applied_fertilizer": "140",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1988",
+      "fertilizer_level_name": "210 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "210",
+      "N_in_applied_fertilizer": "210",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1990",
+      "fertilizer_level_name": "0 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1990",
+      "fertilizer_level_name": "140 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "140",
+      "N_in_applied_fertilizer": "140",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1990",
+      "fertilizer_level_name": "210 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "210",
+      "N_in_applied_fertilizer": "210",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1991",
+      "fertilizer_level_name": "0 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1991",
+      "fertilizer_level_name": "140 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "140",
+      "N_in_applied_fertilizer": "140",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1991",
+      "fertilizer_level_name": "210 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "210",
+      "N_in_applied_fertilizer": "210",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1997",
+      "fertilizer_level_name": "0 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1997",
+      "fertilizer_level_name": "140 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "140",
+      "N_in_applied_fertilizer": "140",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_1997",
+      "fertilizer_level_name": "210 kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "210",
+      "N_in_applied_fertilizer": "210",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "0 kg N/ha_0kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "0",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": null
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "50 kg N/ha_0kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "50",
+      "N_in_applied_fertilizer": "50",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "100 kg N/ha_0kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "100",
+      "N_in_applied_fertilizer": "0",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "0 kg N/ha_40kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "40",
+      "N_in_applied_fertilizer": "40",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "top dressing fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "50 kg N/ha_40kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "50",
+      "N_in_applied_fertilizer": "50",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "50 kg N/ha_40kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "40",
+      "N_in_applied_fertilizer": "40",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "top dressing fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "100 kg N/ha_40kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "100",
+      "N_in_applied_fertilizer": "100",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "0 kg N/ha_80kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "80",
+      "N_in_applied_fertilizer": "80",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "top dressing fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "50 kg N/ha_80kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "50",
+      "N_in_applied_fertilizer": "50",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "50 kg N/ha_80kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "80",
+      "N_in_applied_fertilizer": "80",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "top dressing fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "100 kg N/ha_80kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "100",
+      "N_in_applied_fertilizer": "100",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre seeding fertilizeration"
+    },
+    {
+      "experiment_ID": "Bechini2005_2002",
+      "fertilizer_level_name": "100 kg N/ha_80kg N/ha",
+      "fertilization_date": null,
+      "fertilizer_material": null,
+      "fertilizer_total_amount": "80",
+      "N_in_applied_fertilizer": "80",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "top dressing fertilizeration"
+    }
+  ]
+}

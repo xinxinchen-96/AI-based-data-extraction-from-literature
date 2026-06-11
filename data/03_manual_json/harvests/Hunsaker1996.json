@@ -1,0 +1,18 @@
+{
+  "HARVESTS": [
+    {
+      "experiment_ID": "Hunsaker1996_1993",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    },
+    {
+      "experiment_ID": "Hunsaker1996_1994",
+      "harvest_ops_level_name": null,
+      "harvest_operations_date": null,
+      "harvest_method": null,
+      "harvest_operations_notes": null
+    }
+  ]
+}
