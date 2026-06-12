@@ -20,18 +20,20 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
 
 ## Folder structure
 
-| Folder / File | Description |
-|---|---|
-| `00_paper_list/` | List of 55 publications used in the study (45 training + 10 evaluation), see `paper_list.csv` |
-| `01_scripts/python/` | Python scripts implementing the full pipeline (Steps 1–3) |
-| `01_scripts/R/` | R scripts (one per ICASA category) that generate training data and ground-truth JSON files |
-| `02_icasa_template/icasa_template_allColumns.xlsm` | Excel template with ICASA variable definitions used for manual extraction and as LLM prompt reference |
-| `03_training_data/` | JSONL fine-tuning datasets, one `.jsonl` per category (45 training + 10 evaluation pairs) |
-| `04_manual_json/` | Manually extracted ground-truth JSON files; one file per paper per ICASA category |
-| `05_manual_tabular/` | Manual extraction results in tabular Excel format; one `.xlsx` per paper |
-| `06_llm_output_json/` | LLM-generated structured JSON outputs; one file per paper per category |
-| `07_llm_output_tabular/` | LLM outputs in tabular form; one `.xlsx` per category, compared against `05_manual_tabular/` |
-
+| Folder | Description |
+|--------|-------------|
+| `R/` | R scripts (one per ICASA category) that generate training data and ground-truth JSON files |
+| `python/` | Python scripts implementing the full pipeline (Steps 1–4) |
+| `R_env/` | R environment dependencies and package configurations |
+| `data/00_paper_list/` | List of 55 publications used in the study (45 training + 10 evaluation), see `paper_list.csv` |
+| `data/01_paper_to_md/` | 55 publications of PDF covert to markdown format|
+| `data/02_final_processed_md/` | Final processed Markdown versions of the publications |
+| `data/03_icasa_template/` | Excel template with ICASA variable definitions used for manual extraction and as LLM prompt reference |
+| `data/04_manual_json/` | Manually extracted ground-truth JSON files; one file per paper per ICASA category |
+| `data/05_manual_tabular/` | Manual extraction results in tabular Excel format; one `.xlsx` per paper |
+| `data/06_training_data/` | JSONL fine-tuning datasets, one `.jsonl` per category (45 training + 10 validation pairs) |
+| `data/07_llm_output_json/` | LLM-generated structured JSON outputs; one file per paper per category |
+| `data/08_llm_output_tabular/` | LLM outputs in tabular form; one `.xlsx` per category, compared against `05_manual_tabular/` |
 ---
 
 ## Pipeline workflow
@@ -158,49 +160,36 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
 
 ### Step-by-Step description
 
-#### Step 1. PDF to Markdown (`01_scripts/python/step1_pdf_to_markdown.py`)
+#### Step 1. PDF to Markdown (`py/step1_pdf_to_markdown.py`)
 - Uses the **`marker`** tool (a PDF-to-Markdown converter) to convert scientific PDF papers into Markdown text files.
 - Input: folder of PDF papers
-- Output: folder of Markdown files
+- Output: 01_paper_to_md
 
-#### Step 2. Markdown preprocessing (steps 2.1–2.7, in `01_scripts/python/`)
-A series of scripts that clean and enrich the Markdown files:
+#### Step 2. Markdown preprocessing (step2_process_paper.R, in `py/`)
+A script that clean and proces the Markdown files:
+Output: 02_final_processed_md (enriched markdown files containing methods text, relevant tables, author names, and publication year which are ready for LLM processing).
 
-| Script | Purpose |
-|---|---|
-| `step2_1_extract_method_sections.py` | Extract **Methods sections** from Markdown |
-| `step2_2_extract_tables_before_methods.py` | Extract **tables appearing before** the Methods section |
-| `step2_3_combine_methods_and_tables.py` | Combine tables-before-methods + methods sections |
-| `step2_4_extract_authors.py` | Extract **author names** from Markdown |
-| `step2_5_add_authors_to_combined.py` | Add author info to the combined content |
-| `step2_6_extract_publication_date.py` | Extract **publication/corresponding date** from Markdown |
-| `step2_7_add_date_to_combined.py` | Add year/date info to the combined content |
-
-Output: enriched markdown files containing methods text, relevant tables, author names, and publication year which are ready for LLM processing.
-
-#### R Scripts: Training data generation (`01_scripts/R/`)
-
-The 8 R scripts (one per ICASA category) serve a **dual purpose**, these scripts are the core data-preparation tools, not simple converters.
+#### R Scripts: Training data generation (`R/assemble_training_set.R`)
 
 **Inputs:**
-- `02_icasa_template/icasa_template_allColumns.xlsm` is the Excel workbook (filled in manually for each paper/year)
-- FINAL enriched `.md` files are the tokenised PDFs from Step 2.7
+- `03_icasa_template/icasa_template_allColumns.xlsm` is the Excel workbook (filled in manually for each paper)
+- the process markdown file in folder 02_final_processed_md
 
-**Output A: Ground-truth JSON files (`04_manual_json/`):**
-Each R script exports one JSON file per paper (and per experimental year where applicable), capturing the manually extracted ICASA variables. These JSON files are the **ground truth**.
+**Output A: Ground-truth JSON files (data/`04_manual_json/`):**
+R script exports one JSON file per paper, capturing the manually extracted ICASA variables. These JSON files are the **ground truth**.The json files are convert to tabular files and output in the folders 05_manual_tabular
 
-**Output B:JSONL training files (`03_training_data/`):**
-The same R script pairs each enriched Markdown (user prompt) with the corresponding JSON (assistant response) to produce a JSONL file ready for OpenAI fine-tuning. Two pairing strategies are available:
+**Output B:JSONL training files (`data/06_training_data/`):**
+The same R script pairs each enriched Markdown (user prompt) with the corresponding JSON (assistant response) to produce a JSONL file ready for OpenAI fine-tuning:
 - **one-to-one** (recommended): each experimental year gets its own training pair that is smaller and more focused pairs.
-- **one-to-many**: all years from one paper are bundled into a single training pair.
 
-#### Step 3. LLM structured extraction (`01_scripts/python/step3_llm_extract_icasa_variables.py`)
-- Reads the enriched markdown files and the ICASA excel template.
+#### Step 3. LLM structured extraction (`py/step3_llm_extract_icasa_variables.py`)
 - Constructs structured prompts for each **ICASA data category**.
-- Calls the **fine-tuned OpenAI GPT model** (e.g., `gpt-4.1-mini`) via API.
+- Calls the **fine-tuned OpenAI GPT model**  via API.
 - Saves the LLM responses as structured **JSON files** per paper per category.
-
----
+- output:LLM extracted JSON files (data/`08_llm_output_tabular/`)
+- 
+#### Step 4. manual and LLM extraction comparision (`py/step4_evaluation.py`)
+-input:05_manual_tabular and 08_llm_output_tabular
 
 ## ICASA data categories extracted
 
@@ -229,17 +218,6 @@ Before Python Step 3 can run, the JSONL training data must be uploaded manually 
 4. Paste the model IDs into the `FINE_TUNED_MODELS` dictionary in `step3_llm_extract_icasa_variables.py`.
 
 The model is fine-tuned **separately for each of the 8 ICASA categories**, using 45 papers for training and 10 papers held out for evaluation.
-
----
-
-## Evaluation
-
-After Step 3 runs, the LLM outputs are converted to tabular form and compared against the manual baseline:
-
-- `06_llm_output_json/` → converted to `07_llm_output_tabular/` (one `.xlsx` per category)
-- `07_llm_output_tabular/` is compared against `05_manual_tabular/` (human baseline)
-
-This comparison measures how well the fine-tuned LLM reproduces the manual extraction results.
 
 ---
 
