@@ -1,0 +1,554 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1959",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1960",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1961",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1962",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1963",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1964",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1965",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1966",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1967",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1968",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1969",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1970",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1971",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1972",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1973",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1974",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1975",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1976",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1977",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1978",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1979",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1980",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1981",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1982",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1983",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1984",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1985",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1986",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1987",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1988",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1989",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1990",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1991",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1992",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1993",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1994",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1995",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1996",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1997",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1998",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_1999",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2000",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2001",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2002",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2003",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2004",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2005",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2006",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2007",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liu2010_2008",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

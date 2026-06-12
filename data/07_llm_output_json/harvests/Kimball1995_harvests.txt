@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1993-05-24",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

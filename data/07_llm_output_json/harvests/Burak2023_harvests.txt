@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Burak2023_2020_Common_Hart",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2021-07-22",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Burak2023_2020_Foxfield",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2021-08-26",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

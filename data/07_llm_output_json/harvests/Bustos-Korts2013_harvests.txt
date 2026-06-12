@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2009",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2010",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

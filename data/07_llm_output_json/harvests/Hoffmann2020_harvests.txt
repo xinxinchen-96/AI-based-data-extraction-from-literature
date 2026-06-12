@@ -1,0 +1,169 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2007_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2008_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2009_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2009_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2010_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2010_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2011_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2011_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2012_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2012_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2013_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2013_Zeekoegat",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2014_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2015_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hoffmann2020_2016_Buffelsvlei",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

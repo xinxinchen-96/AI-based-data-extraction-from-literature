@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Griffin2016_2012",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "07/09/2012",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Griffin2016_2013",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "01/10/2013",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Griffin2016_2014",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "21/08/2014",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Griffin2016_2015",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "25/09/2015",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

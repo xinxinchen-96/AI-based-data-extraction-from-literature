@@ -1,0 +1,103 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2010_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2011_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2012_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2013_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2014_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2015_Bako",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2015_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2016_Bako",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Liben2018_2016_Melkassa",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

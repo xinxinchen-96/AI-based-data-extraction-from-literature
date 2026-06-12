@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hunsaker1996_1993",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Hunsaker1996_1994",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": {},
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

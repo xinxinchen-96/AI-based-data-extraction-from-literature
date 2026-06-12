@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Kimball1999_1993",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1993-05-24",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Kimball1999_1994",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1994-06-01",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Kimball1999_1996",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1996-05-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Kimball1999_1997",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1997-05-28",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

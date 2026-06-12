@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Spiertz1978_1977",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1977-08-24",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

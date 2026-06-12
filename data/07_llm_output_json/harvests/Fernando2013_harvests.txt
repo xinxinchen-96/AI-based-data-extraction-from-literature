@@ -1,0 +1,58 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Fernando2013_2007",
+          "harvest_ops_level_name": "harvest for TOS1 in 2007",
+          "harvest_operations_date": "2007-12-12",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        },
+        {
+          "experiment_ID": "Fernando2013_2007",
+          "harvest_ops_level_name": "harvest for TOS2 in 2007",
+          "harvest_operations_date": "2008-01-02",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Fernando2013_2008",
+          "harvest_ops_level_name": "harvest for TOS1 in 2008",
+          "harvest_operations_date": "2008-12-08",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        },
+        {
+          "experiment_ID": "Fernando2013_2008",
+          "harvest_ops_level_name": "harvest for TOS2 in 2008",
+          "harvest_operations_date": "2008-12-15",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Fernando2013_2009",
+          "harvest_ops_level_name": "harvest for TOS1 in 2009",
+          "harvest_operations_date": "2009-12-04",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        },
+        {
+          "experiment_ID": "Fernando2013_2009",
+          "harvest_ops_level_name": "harvest for TOS2 in 2009",
+          "harvest_operations_date": "2009-12-15",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

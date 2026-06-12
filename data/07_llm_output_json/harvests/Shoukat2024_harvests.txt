@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2021-06-07",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2022-06-08",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

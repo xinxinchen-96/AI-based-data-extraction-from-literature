@@ -1,0 +1,158 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1979",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1979-09-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1980",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1980-10-04",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1981",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1981-07-01",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1982",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1982-07-04",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1983",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1983-07-09",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1984",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1984-07-03",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1985",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1985-09-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1986",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1986-09-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1987",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1987-07-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1988",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1988-07-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1989",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1989-07-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1990",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1990-07-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1991",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1991-09-30",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Li2015_1992",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1992-10-16",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

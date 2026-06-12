@@ -1,0 +1,150 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2001",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2001-09-28",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2002",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2002-07-02",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2003",
+          "harvest_ops_level_name": "sunflower1",
+          "harvest_operations_date": "2003-05-26",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        },
+        {
+          "experiment_ID": "Garrigues2015_2003",
+          "harvest_ops_level_name": "sunflower",
+          "harvest_operations_date": "2003-09-19",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2004",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2004-06-28",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2005",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2005-06-22",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2006",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2006-06-27",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2007",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2007-10-16",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2008",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2008-07-01",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2009",
+          "harvest_ops_level_name": "maize2",
+          "harvest_operations_date": "2009-06-15",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        },
+        {
+          "experiment_ID": "Garrigues2015_2009",
+          "harvest_ops_level_name": "sorghum",
+          "harvest_operations_date": "2009-09-22",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2010",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2010-07-13",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2011",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2011-09-22",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Garrigues2015_2012",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "2012-06-25",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}

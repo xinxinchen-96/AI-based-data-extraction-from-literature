@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Artru2018_2015",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1985-08-10",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    },
+    {
+      "HARVESTS": [
+        {
+          "experiment_ID": "Artru2018_2016",
+          "harvest_ops_level_name": {},
+          "harvest_operations_date": "1986-08-11",
+          "harvest_method": {},
+          "harvest_operations_notes": {}
+        }
+      ]
+    }
+  ]
+}
