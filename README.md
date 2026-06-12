@@ -49,65 +49,38 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                              |  step1_pdf_to_markdown.py  |
                              +----------------------------+
                                           |
-                              [OUTPUT] Markdown files (.md)
-                                          |
-         +-----------------+--------------+--------------+------------------+
-         v                 v              v              v                  v
-  +--------------+  +--------------+      |      +-------------+  +-------------+
-  |  STEP 2.1    |  |  STEP 2.2    |      |      |  STEP 2.4   |  |  STEP 2.6   |
-  | extract      |  | extract      |      |      | extract     |  | extract     |
-  | method       |  | tables       |      |      | authors     |  | pub. date   |
-  | sections     |  | bef. method  |      |      |             |  |             |
-  +--------------+  +--------------+      |      +-------------+  +-------------+
-         |                  |             |              |                  |
-  [OUT] *_results.md [OUT] *_tables.md    |      [OUT] *_authors.md [OUT] *_dates.md
-         |                  |             |              |                  |
-         +--------+---------+             |              |                  |
-                  v                       |              |                  |
-         +--------------+                 |              |                  |
-         |  STEP 2.3    |                 |              |                  |
-         | combine      |                 |              |                  |
-         | methods +    |                 |              |                  |
-         | tables       |                 |              |                  |
-         +--------------+                 |              |                  |
-                  |                       |              |                  |
-         [OUT] combined.md                |              |                  |
-                  |                       |              |                  |
-                  +-----------------------+--------------+                  |
-                                          |                                 |
-                                          v                                 |
-                              +----------------------------+                |
-                              |  STEP 2.5                  |                |
-                              |  add authors to combined   |                |
-                              +----------------------------+                |
-                                          |                                 |
-                              [OUT] combined + authors .md                  |
-                                          |                                 |
-                                          +---------------------------------+
+                                  [OUT] 01_paper_to_md/
                                           |
                                           v
-                              +----------------------------+
-                              |  STEP 2.7                  |
-                              |  add date to combined      |
-                              +----------------------------+
+                             +------------------------------+
+                             |  STEP 2: process paper       |
+                             |  step2_process_paper.py      |
+                             |                              |
+                             |  (all steps run in memory):  |
+                             |  · extract methods section   |
+                             |  · extract tables            |
+                             |  · extract author block      |
+                             |  · extract publication date  |
+                             |  · combine all → FINAL       |
+                             +------------------------------+
                                           |
-                              [OUT] FINAL enriched .md  ◄─────────────────────────────────┐
-                                          |                                               │
-                  ┌───────────────────────┘                                               │
-                  │                                                                       │
-                  v                                                                       │
-  +-----------------------------+                                                         │
-  |  03_icasa_template/         |  ← Created by colleague, based on ICASA dictionary      │
-  |  ICASA variable schema      |    (Excel workbook with variable definitions            │
-  |  (Excel .xlsm)              |     and tick-boxes for inclusion/exclusion)             │
-  +-----------------------------+                                                         │
-                  |                                                                       │
-                  v                                                                       │
-  +---------------------------------------------------------+                             │
-  |  R SCRIPTS  (R/)                                        |  ←──────────────────────────┘
+                         [OUT] 02_final_processed_md/  ◄─────────────────────────────────┐
+                                          |                                              │
+                  ┌───────────────────────┘                                              │
+                  │                                                                      │
+                  v                                                                      │
+  +-----------------------------+                                                        │
+  |  03_icasa_template/         |  ← Created by colleague, based on ICASA dictionary     │
+  |  ICASA variable schema      |    (Excel workbook with variable definitions           │
+  |  (Excel .xlsm)              |     and tick-boxes for inclusion/exclusion)            │
+  +-----------------------------+                                                        │
+                  |                                                                      │
+                  v                                                                      │
+  +---------------------------------------------------------+                            │
+  |  R SCRIPTS  (R/)                                        |  ←─────────────────────────┘
   |  assemble_training_set.R                                |     (also reads enriched .md)
   |                                                         |
-  |  Input:  03_icasa_template  +  FINAL enriched .md       |
+  |  Input:  03_icasa_template  +  02_final_processed_md/   |
   |  Output A → 04_manual_json/   (one JSON per paper)      |
   |  Output B → 06_training_data/ (one JSONL per category)  |
   |                                                         |
@@ -127,24 +100,24 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                   |                         |
                   v                         v
   +---------------------------+   +-------------------------------+
-  |  05_manual_tabular/       |   |  [OpenAI Platform]            |
-  |  Manual extractions in    |   |  Upload JSONL → fine-tune     |
-  |  tabular Excel format     |   |  GPT model (one per category) |
-  |  (one .xlsx per paper,    |   |  → returns fine-tuned         |
-  |   all categories combined)|   |    model ID                   |
+  |  R SCRIPTS  (R/)          |   |  [OpenAI Platform]            |
+  |  convert json to tabular_*|   |  Upload JSONL → fine-tune     |
+  +---------------------------+   |  GPT model (one per category) |
+                  |               |  → returns fine-tuned         |
+                  v               |    model ID                   |
   +---------------------------+   +-------------------------------+
-                  |                         |
-                  |                         v
-                  |             +-----------------------------+
-                  |             |  STEP 3                     |
-                  |             |  step3_llm_extract_         |
-                  |             |  icasa_variables.py         |
-                  |             |                             |
-                  |             |  Input: FINAL enriched .md  |
-                  |             |       + ICASA Excel schema  |
-                  |             |       + fine-tuned model ID |
-                  |             |  Calls OpenAI API           |
-                  |             +-----------------------------+
+  |  05_manual_tabular/       |               |
+  |  Manual extractions in    |               v
+  |  tabular Excel format     |   +-----------------------------+
+  |  (one .xlsx per paper,    |   |  STEP 3                     |
+  |   all categories combined)|   |  step3_llm_extract_         |
+  +---------------------------+   |  icasa_variables.py         |
+                  |               |                             |
+                  |               |  Input: 02_final_processed_ |
+                  |               |    md/ + ICASA Excel schema |
+                  |               |       + fine-tuned model ID |
+                  |               |  Calls OpenAI API           |
+                  |               +-----------------------------+
                   |                         |
                   |                         v
                   |             +-----------------------------+
@@ -170,13 +143,13 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                   |                         |
                   +──────────────► compare ◄+
                                        |
-                  +-----------------------------+
-                  |  STEP 4                     |
-                  |  step4_evaluation.py        |
-                  |                             |
-                  |  05_manual_tabular  vs      |
-                  |  08_llm_output_tabular      |
-                  +-----------------------------+
+                   +-----------------------------+
+                   |  STEP 4                     |
+                   |  step4_evaluation.py        |
+                   |                             |
+                   |  05_manual_tabular  vs      |
+                   |  08_llm_output_tabular      |
+                   +-----------------------------+
 ```
 
 ---
@@ -188,7 +161,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
 - Input: folder of PDF papers
 - Output: 01_paper_to_md
 
-#### Step 2. Markdown preprocessing (step2_process_paper.R, in `py/`)
+#### Step 2. Markdown preprocessing (step2_process_paper.py, in `py/`)
 A script that clean and proces the Markdown files:
 Output: 02_final_processed_md (enriched markdown files containing methods text, relevant tables, author names, and publication year which are ready for LLM processing).
 
