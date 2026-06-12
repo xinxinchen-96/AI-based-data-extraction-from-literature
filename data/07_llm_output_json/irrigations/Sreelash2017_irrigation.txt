@@ -1,0 +1,100 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sreelash2017_2011",
+          "irrigation_operation_name": "turmeric",
+          "irrigation_date": {},
+          "irrig_amount_depth": "170",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Sreelash2017_2011",
+          "irrigation_operation_name": "sunflower",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2011",
+          "irrigation_operation_name": "sorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2011",
+          "irrigation_operation_name": "maize",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sreelash2017_2012",
+          "irrigation_operation_name": "turmeric",
+          "irrigation_date": {},
+          "irrig_amount_depth": "170",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Sreelash2017_2012",
+          "irrigation_operation_name": "sunflower",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2012",
+          "irrigation_operation_name": "sorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2012",
+          "irrigation_operation_name": "maize",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sreelash2017_2013",
+          "irrigation_operation_name": "turmeric",
+          "irrigation_date": {},
+          "irrig_amount_depth": "170",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Sreelash2017_2013",
+          "irrigation_operation_name": "sunflower",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2013",
+          "irrigation_operation_name": "sorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        },
+        {
+          "experiment_ID": "Sreelash2017_2013",
+          "irrigation_operation_name": "maize",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed"
+        }
+      ]
+    }
+  ]
+}

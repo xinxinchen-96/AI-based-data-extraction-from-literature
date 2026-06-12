@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2009",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Water was supplied by irrigation when necessary to complement rainfall in all experiments, avoiding any risk of water stress"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2010",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Water was supplied by irrigation when necessary to complement rainfall in all experiments, avoiding any risk of water stress"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Water was supplied by irrigation when necessary to complement rainfall in all experiments, avoiding any risk of water stress"
+        }
+      ]
+    }
+  ]
+}

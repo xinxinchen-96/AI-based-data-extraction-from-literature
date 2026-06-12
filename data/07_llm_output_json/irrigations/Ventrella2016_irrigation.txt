@@ -1,0 +1,400 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1977",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1978",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1979",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1980",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1981",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1982",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1983",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1984",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1985",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1986",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1987",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1988",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1989",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1990",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1991",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1992",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1993",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1994",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1995",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1996",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1997",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1998",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_1999",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2000",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2001",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2002",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2003",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2004",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2005",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2006",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2007",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2008",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2009",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2010",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2011",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Ventrella2016_2012",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "Due to the particularly dry conditions, supplemental irrigations were done in eight years during the entire experiment with irrigation depths ranging from 30 to 70 mm and mostly from January to April."
+        }
+      ]
+    }
+  ]
+}

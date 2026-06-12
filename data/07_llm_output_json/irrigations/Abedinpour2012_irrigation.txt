@@ -1,0 +1,68 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Abedinpour2012_2009",
+          "irrigation_operation_name": "W1",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": "rainfed, i.e. no irrigation"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2009",
+          "irrigation_operation_name": "W2",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50",
+          "irrigation_operation_notes": "irrigation at 50% of field capacity (FC)"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2009",
+          "irrigation_operation_name": "W3",
+          "irrigation_date": {},
+          "irrig_amount_depth": "75",
+          "irrigation_operation_notes": "irrigation at 75% of field capacity (FC)"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2009",
+          "irrigation_operation_name": "W4",
+          "irrigation_date": {},
+          "irrig_amount_depth": "100",
+          "irrigation_operation_notes": "full irrigation"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Abedinpour2012_2010",
+          "irrigation_operation_name": "W1",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": "rainfed, i.e. no irrigation"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2010",
+          "irrigation_operation_name": "W2",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50",
+          "irrigation_operation_notes": "irrigation at 50% of field capacity (FC)"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2010",
+          "irrigation_operation_name": "W3",
+          "irrigation_date": {},
+          "irrig_amount_depth": "75",
+          "irrigation_operation_notes": "irrigation at 75% of field capacity (FC)"
+        },
+        {
+          "experiment_ID": "Abedinpour2012_2010",
+          "irrigation_operation_name": "W4",
+          "irrigation_date": {},
+          "irrig_amount_depth": "100",
+          "irrigation_operation_notes": "full irrigation"
+        }
+      ]
+    }
+  ]
+}

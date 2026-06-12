@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Yang2003_1999_Lincoln",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "255",
+          "irrigation_operation_notes": "In 1999 and 2000, the experiment was irrigated with a surface drip tape placed beside the plants in each row to fully replenish daily crop evapotranspiration."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Yang2003_2000_Lincoln",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "255",
+          "irrigation_operation_notes": "In 1999 and 2000, the experiment was irrigated with a surface drip tape placed beside the plants in each row to fully replenish daily crop evapotranspiration."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Yang2003_2001_Lincoln",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "540",
+          "irrigation_operation_notes": "In 2001, a sub-surface drip irrigation was used with drip tapes placed in alternate rows at a 30 cm depth."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Yang2003_2002_Manchester",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "The farm does not have access to irrigation."
+        }
+      ]
+    }
+  ]
+}

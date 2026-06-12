@@ -1,0 +1,181 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2011_SantaMaria",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2011_SantaMaria",
+          "irrigation_operation_name": "late",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2012_SantaMaria",
+          "irrigation_operation_name": "early",
+          "irrigation_date": {},
+          "irrig_amount_depth": "193",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2012_SantaMaria",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "130",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2012_SantaMaria",
+          "irrigation_operation_name": "late",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2013_SantaMaria",
+          "irrigation_operation_name": "early",
+          "irrigation_date": {},
+          "irrig_amount_depth": "75",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2013_SantaMaria",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "90",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2013_SantaMaria",
+          "irrigation_operation_name": "late",
+          "irrigation_date": {},
+          "irrig_amount_depth": "70",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_AguaSanta",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_FredericoWestphalen",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_Itaqui",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2014_Itaqui",
+          "irrigation_operation_name": "late",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_JuliodeCastilhos",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_Pelotas",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_RestingaSeca",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_SantaMaria",
+          "irrigation_operation_name": "early",
+          "irrigation_date": {},
+          "irrig_amount_depth": "86.3",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2014_SantaMaria",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "110",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Fensterseifer2017_2014_SantaMaria",
+          "irrigation_operation_name": "late",
+          "irrigation_date": {},
+          "irrig_amount_depth": "12",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Fensterseifer2017_2014_Tupancireta",
+          "irrigation_operation_name": "optimum",
+          "irrigation_date": {},
+          "irrig_amount_depth": "0",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    }
+  ]
+}

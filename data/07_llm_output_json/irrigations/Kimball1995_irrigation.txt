@@ -1,0 +1,22 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "irrigation_operation_name": "Wet",
+          "irrigation_date": {},
+          "irrig_amount_depth": "600",
+          "irrigation_operation_notes": "cumulative irrigation totals between emergence and harvest were 600 and 275 mm for wet and dry, respectively, and the cumulative rainfall during the same period was 76 mm"
+        },
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "irrigation_operation_name": "Dry",
+          "irrigation_date": {},
+          "irrig_amount_depth": "275",
+          "irrigation_operation_notes": "cumulative irrigation totals between emergence and harvest were 600 and 275 mm for wet and dry, respectively, and the cumulative rainfall during the same period was 76 mm"
+        }
+      ]
+    }
+  ]
+}

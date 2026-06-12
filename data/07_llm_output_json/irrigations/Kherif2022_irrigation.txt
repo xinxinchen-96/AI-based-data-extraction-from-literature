@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kherif2022_2019",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "rainfed conditions"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kherif2022_2020",
+          "irrigation_operation_name": {},
+          "irrigation_date": "2020-03-15",
+          "irrig_amount_depth": "24.3",
+          "irrigation_operation_notes": "one complementary irrigation"
+        }
+      ]
+    }
+  ]
+}

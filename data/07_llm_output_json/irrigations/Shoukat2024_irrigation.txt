@@ -1,0 +1,124 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "overwintering",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "regreening",
+          "irrigation_date": {},
+          "irrig_amount_depth": "40",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "early jointing",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "late jointing",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "heading",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "anthesis",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "early filling",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2021",
+          "irrigation_operation_name": "late filling",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "overwintering",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "regreening",
+          "irrigation_date": {},
+          "irrig_amount_depth": "40",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "early jointing",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "late jointing",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "heading",
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "anthesis",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "early filling",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Shoukat2024_2022",
+          "irrigation_operation_name": "late filling",
+          "irrigation_date": {},
+          "irrig_amount_depth": "35",
+          "irrigation_operation_notes": "Irrigation was excluded at the late filling stage due to precipitation"
+        }
+      ]
+    }
+  ]
+}

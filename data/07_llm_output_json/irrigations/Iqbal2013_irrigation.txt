@@ -1,0 +1,121 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "irrigation_operation_name": "TreatmentA",
+          "irrigation_date": {},
+          "irrig_amount_depth": "252",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "irrigation_operation_name": "TreatmentB",
+          "irrigation_date": {},
+          "irrig_amount_depth": "239.5",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "irrigation_operation_name": "TreatmentC",
+          "irrigation_date": {},
+          "irrig_amount_depth": "202.3",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "irrigation_operation_name": "TreatmentD",
+          "irrigation_date": {},
+          "irrig_amount_depth": "362.1",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "irrigation_operation_name": "TreatmentE",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "irrigation_operation_name": "TreatmentA",
+          "irrigation_date": {},
+          "irrig_amount_depth": "281.5",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "irrigation_operation_name": "TreatmentB",
+          "irrigation_date": {},
+          "irrig_amount_depth": "323.9",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "irrigation_operation_name": "TreatmentC",
+          "irrigation_date": {},
+          "irrig_amount_depth": "247.9",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "irrigation_operation_name": "TreatmentD",
+          "irrigation_date": {},
+          "irrig_amount_depth": "404.8",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "irrigation_operation_name": "TreatmentE",
+          "irrigation_date": {},
+          "irrig_amount_depth": "90",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "irrigation_operation_name": "TreatmentA",
+          "irrigation_date": {},
+          "irrig_amount_depth": "234",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "irrigation_operation_name": "TreatmentB",
+          "irrigation_date": {},
+          "irrig_amount_depth": "230",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "irrigation_operation_name": "TreatmentC",
+          "irrigation_date": {},
+          "irrig_amount_depth": "216.7",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "irrigation_operation_name": "TreatmentD",
+          "irrigation_date": {},
+          "irrig_amount_depth": "364.7",
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "irrigation_operation_name": "TreatmentE",
+          "irrigation_date": {},
+          "irrig_amount_depth": "80",
+          "irrigation_operation_notes": {}
+        }
+      ]
+    }
+  ]
+}

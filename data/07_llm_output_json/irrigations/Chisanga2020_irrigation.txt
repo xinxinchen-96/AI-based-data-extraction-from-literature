@@ -1,0 +1,22 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Chisanga2020_2017",
+          "irrigation_operation_name": "Irrigated",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Chisanga2020_2017",
+          "irrigation_operation_name": "Rainfed",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    }
+  ]
+}

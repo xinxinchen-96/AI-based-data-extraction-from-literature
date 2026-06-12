@@ -1,0 +1,58 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "OLeary2015_2007",
+          "irrigation_operation_name": "rainfed",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "OLeary2015_2007",
+          "irrigation_operation_name": "supplemental irrigation",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "OLeary2015_2008",
+          "irrigation_operation_name": "rainfed",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "OLeary2015_2008",
+          "irrigation_operation_name": "supplemental irrigation",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "OLeary2015_2009",
+          "irrigation_operation_name": "rainfed",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "OLeary2015_2009",
+          "irrigation_operation_name": "supplemental irrigation",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    }
+  ]
+}

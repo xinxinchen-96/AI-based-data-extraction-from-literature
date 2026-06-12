@@ -1,0 +1,40 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Hunsaker1996_1993",
+          "irrigation_operation_name": "WET",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Hunsaker1996_1993",
+          "irrigation_operation_name": "DRY",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Hunsaker1996_1994",
+          "irrigation_operation_name": "WET",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        },
+        {
+          "experiment_ID": "Hunsaker1996_1994",
+          "irrigation_operation_name": "DRY",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    }
+  ]
+}

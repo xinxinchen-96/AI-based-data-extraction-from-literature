@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Craigie2015_2013",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Craigie2015_2014",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": {}
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Craigie2015_2015",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "30",
+          "irrigation_operation_notes": "Irrigation was available but was only needed in the 2014-15 season when 30 mm was applied"
+        }
+      ]
+    }
+  ]
+}

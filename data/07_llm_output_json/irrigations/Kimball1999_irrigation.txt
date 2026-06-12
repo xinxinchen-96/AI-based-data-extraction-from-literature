@@ -1,0 +1,62 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kimball1999_1993",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "676",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kimball1999_1994",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": "681",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kimball1999_1996",
+          "irrigation_operation_name": "High N",
+          "irrigation_date": {},
+          "irrig_amount_depth": "731",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        },
+        {
+          "experiment_ID": "Kimball1999_1996",
+          "irrigation_operation_name": "Low N",
+          "irrigation_date": {},
+          "irrig_amount_depth": "670",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Kimball1999_1997",
+          "irrigation_operation_name": "High N",
+          "irrigation_date": {},
+          "irrig_amount_depth": "650",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        },
+        {
+          "experiment_ID": "Kimball1999_1997",
+          "irrigation_operation_name": "Low N",
+          "irrigation_date": {},
+          "irrig_amount_depth": "577",
+          "irrigation_operation_notes": "The irrigations were accomplished using a subsurface drip system with a tube depth of about 0.23 m, a tube spacing of 0.50 m, and an emitter spacing of 0.30 m."
+        }
+      ]
+    }
+  ]
+}

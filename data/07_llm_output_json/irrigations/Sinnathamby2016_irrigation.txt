@@ -1,0 +1,311 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_1999",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2000",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2001",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2002",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2003",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2004",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2005",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "No irrigation was used during the study period"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50.8",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006",
+          "irrigation_operation_name": "grainsorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "whereas the grain sorghum plots were not irrigated and had only a small amount of fertilizer applied"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50.8",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007",
+          "irrigation_operation_name": "grainsorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "whereas the grain sorghum plots were not irrigated and had only a small amount of fertilizer applied"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50.8",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008",
+          "irrigation_operation_name": "grainsorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "whereas the grain sorghum plots were not irrigated and had only a small amount of fertilizer applied"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50.8",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009",
+          "irrigation_operation_name": "grainsorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "whereas the grain sorghum plots were not irrigated and had only a small amount of fertilizer applied"
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "76.2",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "152.4",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "corn",
+          "irrigation_date": {},
+          "irrig_amount_depth": "50.8",
+          "irrigation_operation_notes": "The corn plots were irrigated in April (with 76.2 mm), May (76.2 mm),June (152.4 mm),July (152.4 mm) andAugust(50.8 mm) and well fertilized"
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010",
+          "irrigation_operation_name": "grainsorghum",
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "whereas the grain sorghum plots were not irrigated and had only a small amount of fertilizer applied"
+        }
+      ]
+    }
+  ]
+}

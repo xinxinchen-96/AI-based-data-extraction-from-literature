@@ -1,0 +1,114 @@
+{
+  "cropYear": [
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2007",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2008",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2009",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2010",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2011",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2012",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2013",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2014",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2015",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    },
+    {
+      "IRRIGATIONS": [
+        {
+          "experiment_ID": "Gabriel2019_2016",
+          "irrigation_operation_name": {},
+          "irrigation_date": {},
+          "irrig_amount_depth": {},
+          "irrigation_operation_notes": "irrigation were equal in both treatments and adjusted to crop demands or weed infestation. More details can be found in García-González et al. (2016)."
+        }
+      ]
+    }
+  ]
+}
