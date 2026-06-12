@@ -1,0 +1,354 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Doltra2019_2001_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2002_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2002_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2003_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2003_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2003_Montepaldi",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2003_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2004_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2004_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2004_Montepaldi",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2004_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2005_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2005_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2005_Montepaldi",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2005_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Grado",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Montepaldi",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2006_Villaviciosa",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Grado",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Montepaldi",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2007_Villaviciosa",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Grado",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Vaernes",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2008_Villaviciosa",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Foulum",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Grado",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Vaernes",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2009_Villaviciosa",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2010_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2010_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2010_Vaernes",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2011_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2011_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2011_Vaernes",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2012_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2012_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2013_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2013_Osiny",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "Doltra2019_2014_Frick",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": null,
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    }
+  ]
+}

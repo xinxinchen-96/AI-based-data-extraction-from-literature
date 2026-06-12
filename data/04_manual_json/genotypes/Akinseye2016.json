@@ -1,0 +1,32 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "crop_ident_ICASA": "SGG",
+      "cultivar_name": "CSM63E",
+      "crop_intended_use": "GR",
+      "cultivar_notes": "Variety CSM63E-locally named “Jakumbe” is early (85–100days) maturing of intermediate height type, producing relatively low biomass, and having low PPS."
+    },
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "crop_ident_ICASA": "SGG",
+      "cultivar_name": "CSM335",
+      "crop_intended_use": "GR",
+      "cultivar_notes": "Variety CSM335 otherwise called “Tieble” is a traditional local variety with medium physiological maturity ranging from 105 to 135 days, intermediate plant height, high biomass, low grain and moderate PPS."
+    },
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "crop_ident_ICASA": "SGG",
+      "cultivar_name": "Fadda",
+      "crop_intended_use": "GR",
+      "cultivar_notes": "Variety Fadda is an improved hybrid, medium maturity days (100–135), high-yielding dual purposes (biomass and grain), intermediate plant height and also moderate PPS."
+    },
+    {
+      "experiment_ID": "Akinseye2016_2013",
+      "crop_ident_ICASA": "SGG",
+      "cultivar_name": "IS15401",
+      "crop_intended_use": "GR",
+      "cultivar_notes": "IS15401 also  called Soumalemba is a late maturity variety varied from 100 to 155 days, improved traditional tall variety, high-yielding dual purposes (biomass and grain), and high PPS."
+    }
+  ]
+}

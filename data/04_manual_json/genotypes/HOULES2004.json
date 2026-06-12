@@ -1,0 +1,74 @@
+{
+  "GENOTYPES": [
+    {
+      "experiment_ID": "HOULES2004_1994_Thibie",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Forby",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_1995_Thibie",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Apollo",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_1998_Boigneville",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Soissons",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_1998_Thibie",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_1999_Boigneville",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Soissons",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_1999_Thibie",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_2000_Chambry",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_2001_Chambry",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_2002_LaCheppe",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    },
+    {
+      "experiment_ID": "HOULES2004_2002_LaMinere",
+      "crop_ident_ICASA": "WHT",
+      "cultivar_name": "Shango",
+      "crop_intended_use": "GR",
+      "cultivar_notes": null
+    }
+  ]
+}
