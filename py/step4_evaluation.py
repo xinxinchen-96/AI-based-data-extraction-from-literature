@@ -104,40 +104,40 @@ def compare_dataframes(man_df, mod_df, filename):
 
 
 
-reference_path = Path(r"C:\Users\xinxin\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\Desktop\FAIRagro_fine_tunning\data\0_training_set_version2\Laura\0421_Laura")
+reference_path = Path(r"C:\your\path\to")
 
-model_path = reference_path / "LLM"
-manual_path = reference_path / "exp_geno_field_pla_irr_fer_plot_har"
-model_genotypes_path = reference_path / "genotype_v99_excel"
-model_exp_metadata_path = reference_path / "exp_metadata_v97_excel"
-model_fields_path = reference_path / "fields_v95_excel"
-model_plantings_path = reference_path / "planting_v106_excel"
-model_irrigations_path = reference_path / "irrigation_v119_excel"
-model_fertilizer_path = reference_path / "fertilizer_v121_excel"
-model_plot_path = reference_path / "plot_v121_excel"
-model_harvest_path = reference_path / "harvest_correct_v124_excel"
+model_path = reference_path / "data"
+manual_path = reference_path / "05_manual_tabular"
+model_genotypes_path = reference_path / "08_llm_output_tabular/genotypes"
+model_context_metadata_path = reference_path / "08_llm_output_tabular/context_metadata"
+model_fields_path = reference_path / "08_llm_output_tabular/fields"
+model_plantings_path = reference_path / "08_llm_output_tabular/plantings"
+model_irrigations_path = reference_path / "08_llm_output_tabular/irrigations"
+model_fertilizer_path = reference_path / "08_llm_output_tabular/fertilizeration"
+model_plot_path = reference_path / "08_llm_output_tabular/plot_details"
+model_harvest_path = reference_path / "08_llm_output_tabular/harvests"
 
 
 output_dir= os.path.join(reference_path, "..", "output")
 os.makedirs(output_dir, exist_ok=True)
 
 genotypes = False
-exp_metadata = False
+context_metadata = False
 fields = False
 plantings= False
 irrigations=  False
 fertilizer=   False
-plot= False
-harvest= True 
+plot_details= False
+harvests= True 
 
 if genotypes:
     output_file = os.path.join(output_dir, "GENOTYPES_comparison.xlsx")
     sheet_to_read = "GENOTYPES"
     model_folder = model_genotypes_path
-elif exp_metadata:
+elif context_metadata:
     output_file = os.path.join(output_dir, "METADATA_comparison.xlsx")
-    sheet_to_read = "EXP_METADATA"
-    model_folder = model_exp_metadata_path
+    sheet_to_read = "context_metadata"
+    model_folder = model_context_metadata_path
 elif fields:
     output_file = os.path.join(output_dir, "FIELDS_comparison.xlsx")
     sheet_to_read = "FIELDS"
@@ -154,16 +154,16 @@ elif fertilizer:
     output_file = os.path.join(output_dir, "fertilizer_comparison.xlsx")
     sheet_to_read = "FERTILIZERS"
     model_folder = model_fertilizer_path
-elif plot:
+elif plot_details:
     output_file = os.path.join(output_dir, "plot_comparison.xlsx")
     sheet_to_read = "PLOT_DETAILS"
     model_folder = model_plot_path
-elif harvest:
-    output_file = os.path.join(output_dir, "harvest_comparison.xlsx")
+elif harvests:
+    output_file = os.path.join(output_dir, "harvests_comparison.xlsx")
     sheet_to_read = "HARVESTS"
     model_folder = model_harvest_path    
 else:
-    print("No mode selected. Set genotypes or fields or exp_metadata to True.")
+    print("No mode selected. Set genotypes or fields or context_metadata to True.")
     sys.exit()
 
 all_results = []

@@ -16,8 +16,8 @@ import subprocess
 # =============================================================================
 # === USER CONFIG — edit these two paths before running =======================
 # =============================================================================
-INPUT_PDF_FOLDER  = r"C:\your\path\to\pdf_papers"       # folder with .pdf files
-OUTPUT_MD_FOLDER  = r"C:\your\path\to\output_markdown"  # where .md files will be saved
+INPUT_PDF_FOLDER  = r"C:\your\path\to\00_paper_list"       # folder with .pdf files
+OUTPUT_MD_FOLDER  = r"C:\your\path\to\01_paper_to_md"  # where .md files will be saved
 # =============================================================================
 
 command = [
