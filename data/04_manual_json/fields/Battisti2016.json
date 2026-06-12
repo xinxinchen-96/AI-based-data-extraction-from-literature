@@ -1,0 +1,124 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Battisti2016_2014_C1",
+      "field_name": "Frederico Westphalen",
+      "field_country": "Brazil",
+      "field_sub_country": "RS",
+      "field_sub_sub_country": null,
+      "field_latitude": -27.35,
+      "field_longitude": -53.38,
+      "field_elevation": 522
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_C2",
+      "field_name": "Londrina",
+      "field_country": "Brazil",
+      "field_sub_country": "PR",
+      "field_sub_sub_country": null,
+      "field_latitude": -18,
+      "field_longitude": -51.15,
+      "field_elevation": 585
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_C3",
+      "field_name": "Piracicaba",
+      "field_country": "Brazil",
+      "field_sub_country": "SP",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.72,
+      "field_longitude": -47.64,
+      "field_elevation": 547
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E4",
+      "field_name": "Dourados",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.22,
+      "field_longitude": -54.8,
+      "field_elevation": 430
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E6",
+      "field_name": "Naviraí",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -23.05,
+      "field_longitude": -54.18,
+      "field_elevation": 362
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E7",
+      "field_name": "São Gabriel do Oeste",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -19.38,
+      "field_longitude": -54.55,
+      "field_elevation": 658
+    },
+    {
+      "experiment_ID": "Battisti2016_2014_E9",
+      "field_name": "Antônio João",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.18,
+      "field_longitude": -55.93,
+      "field_elevation": 681
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E1",
+      "field_name": "Frederico Westphalen",
+      "field_country": "Brazil",
+      "field_sub_country": "RS",
+      "field_sub_sub_country": null,
+      "field_latitude": -27.35,
+      "field_longitude": -53.38,
+      "field_elevation": 522
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E2",
+      "field_name": "Piracicaba",
+      "field_country": "Brazil",
+      "field_sub_country": "SP",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.72,
+      "field_longitude": -47.64,
+      "field_elevation": 547
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E5",
+      "field_name": "Dourados",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.22,
+      "field_longitude": -54.8,
+      "field_elevation": 430
+    },
+    {
+      "experiment_ID": "Battisti2016_2015_E8",
+      "field_name": "São Gabriel do Oeste",
+      "field_country": "Brazil",
+      "field_sub_country": "MS",
+      "field_sub_sub_country": null,
+      "field_latitude": -19.38,
+      "field_longitude": -54.55,
+      "field_elevation": 658
+    },
+    {
+      "experiment_ID": "Battisti2016_2016_E3",
+      "field_name": "Piracicaba",
+      "field_country": "Brazil",
+      "field_sub_country": "SP",
+      "field_sub_sub_country": null,
+      "field_latitude": -22.72,
+      "field_longitude": -47.64,
+      "field_elevation": 547
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Araya2021_2004_Mekelle",
+      "field_name": "Mekelle",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": "Northern Ethiopia",
+      "field_latitude": 13.05,
+      "field_longitude": 39.53,
+      "field_elevation": 2210
+    },
+    {
+      "experiment_ID": "Araya2021_2008_Mekelle",
+      "field_name": "Mekelle",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": "Northern Ethiopia",
+      "field_latitude": 13.05,
+      "field_longitude": 39.53,
+      "field_elevation": 2210
+    },
+    {
+      "experiment_ID": "Araya2021_2009_Mekelle",
+      "field_name": "Mekelle",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": "Northern Ethiopia",
+      "field_latitude": 13.05,
+      "field_longitude": 39.53,
+      "field_elevation": 2210
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Maychew",
+      "field_name": "Maychew",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": "Northern Ethiopia",
+      "field_latitude": 12.78,
+      "field_longitude": 39.53,
+      "field_elevation": 2400
+    },
+    {
+      "experiment_ID": "Araya2021_2010_Mekelle",
+      "field_name": "Mekelle",
+      "field_country": "Ethiopia",
+      "field_sub_country": null,
+      "field_sub_sub_country": "Northern Ethiopia",
+      "field_latitude": 13.05,
+      "field_longitude": 39.53,
+      "field_elevation": 2210
+    }
+  ]
+}

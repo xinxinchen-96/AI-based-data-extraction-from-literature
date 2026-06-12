@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Grant1991_1983",
+      "field_name": "Bouwing",
+      "field_country": "Netherlands",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": 51.95,
+      "field_longitude": 5.75,
+      "field_elevation": null
+    }
+  ]
+}

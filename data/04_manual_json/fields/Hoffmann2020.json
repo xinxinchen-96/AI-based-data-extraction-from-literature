@@ -1,0 +1,154 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Hoffmann2020_2007_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2008_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng ",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2009_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2009_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2010_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2010_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2011_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2011_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2012_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2012_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2013_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2013_Zeekoegat",
+      "field_name": "Zeekoegat Experimental Farm",
+      "field_country": "South Africa",
+      "field_sub_country": "Gauteng",
+      "field_sub_sub_country": null,
+      "field_latitude": -25.6,
+      "field_longitude": 28.35,
+      "field_elevation": 1168
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2014_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2015_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    },
+    {
+      "experiment_ID": "Hoffmann2020_2016_Buffelsvlei",
+      "field_name": "Buffelsvei",
+      "field_country": "South Africa",
+      "field_sub_country": "North west",
+      "field_sub_sub_country": null,
+      "field_latitude": -26.49,
+      "field_longitude": 26.6,
+      "field_elevation": 1390
+    }
+  ]
+}

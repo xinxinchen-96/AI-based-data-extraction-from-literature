@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Kimball1995_1993",
+      "field_name": "Maricopa",
+      "field_country": "USA",
+      "field_sub_country": "Arizona",
+      "field_sub_sub_country": null,
+      "field_latitude": null,
+      "field_longitude": null,
+      "field_elevation": null
+    }
+  ]
+}
