@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "The main [CO2] plots were split into semi-circular halves that were well-watered (Wet) by replacement of potential evapotranspiration using a sub-surface drip irrigation system (0.5 m tube spacing, 0.3 m emitter spacing, 0.2 m depth) or that were subjected to waterstress (Dry) by supplying only 1/2 as much water at each irrigation"
+        }
+      ]
+    }
+  ]
+}

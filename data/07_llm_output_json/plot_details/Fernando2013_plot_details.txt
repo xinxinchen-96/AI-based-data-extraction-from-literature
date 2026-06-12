@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Fernando2013_2007",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Fernando2013_2008",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Fernando2013_2009",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

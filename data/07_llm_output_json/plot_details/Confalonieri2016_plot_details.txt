@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Confalonieri2016_2004_Opera",
+          "plot_length": 7,
+          "plot_width": 5,
+          "plot_area": 35,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Confalonieri2016_2004_Vignate",
+          "plot_length": 10,
+          "plot_width": 3,
+          "plot_area": 30,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

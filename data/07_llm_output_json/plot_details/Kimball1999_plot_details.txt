@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kimball1999_1993",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "Field plot plan for the 1995–1997 FACE experiments showing four replicate circular FACE plots and four corresponding blower plots that had similar air flow but no added CO2. Also shown are two ambient plots that had no forced air movement and no added CO2. All of the circular main plots were split into semicircular high-N and low-N plots. These nitrogen treatments were applied via a subsurface drip irrigation system in strips across the field as indicated."
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kimball1999_1994",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "Field plot plan for the 1995–1997 FACE experiments showing four replicate circular FACE plots and four corresponding blower plots that had similar air flow but no added CO2. Also shown are two ambient plots that had no forced air movement and no added CO2. All of the circular main plots were split into semicircular high-N and low-N plots. These nitrogen treatments were applied via a subsurface drip irrigation system in strips across the field as indicated."
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kimball1999_1996",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "Field plot plan for the 1995–1997 FACE experiments showing four replicate circular FACE plots and four corresponding blower plots that had similar air flow but no added CO2. Also shown are two ambient plots that had no forced air movement and no added CO2. All of the circular main plots were split into semicircular high-N and low-N plots. These nitrogen treatments were applied via a subsurface drip irrigation system in strips across the field as indicated."
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kimball1999_1997",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "Field plot plan for the 1995–1997 FACE experiments showing four replicate circular FACE plots and four corresponding blower plots that had similar air flow but no added CO2. Also shown are two ambient plots that had no forced air movement and no added CO2. All of the circular main plots were split into semicircular high-N and low-N plots. These nitrogen treatments were applied via a subsurface drip irrigation system in strips across the field as indicated."
+        }
+      ]
+    }
+  ]
+}

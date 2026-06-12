@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Darwinkel1978_1977",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 0.2,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

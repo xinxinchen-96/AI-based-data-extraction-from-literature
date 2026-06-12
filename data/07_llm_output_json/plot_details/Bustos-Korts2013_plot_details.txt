@@ -1,0 +1,44 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2009",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2010",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "plot_length": 1.35,
+          "plot_width": 2,
+          "plot_area": {},
+          "plot_layout": "conventional density"
+        },
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "plot_length": 1.5,
+          "plot_width": 1.5,
+          "plot_area": {},
+          "plot_layout": "low density"
+        }
+      ]
+    }
+  ]
+}

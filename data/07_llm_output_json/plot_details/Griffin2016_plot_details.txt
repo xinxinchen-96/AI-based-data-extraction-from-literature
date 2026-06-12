@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Griffin2016_2012",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Griffin2016_2013",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Griffin2016_2014",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Griffin2016_2015",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

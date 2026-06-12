@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ludwig2010_2007_Garte",
+          "plot_length": 20,
+          "plot_width": 40,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ludwig2010_2007_HohesFeld",
+          "plot_length": 12.8,
+          "plot_width": 36,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ludwig2010_2008_Garte",
+          "plot_length": 20,
+          "plot_width": 40,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ludwig2010_2008_HohesFeld",
+          "plot_length": 12.8,
+          "plot_width": 36,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

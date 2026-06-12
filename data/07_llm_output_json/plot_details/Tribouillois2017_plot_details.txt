@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Tribouillois2017_2012",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 14,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

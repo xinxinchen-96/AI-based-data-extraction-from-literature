@@ -1,0 +1,15 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "plot_length": 8,
+          "plot_width": 5.25,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

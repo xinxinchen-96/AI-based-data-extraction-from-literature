@@ -1,0 +1,114 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2010_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2011_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2012_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2013_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2014_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2014_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 11.47,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2015_Bako",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2015_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2016_Bako",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Libena2018_2016_Melkassa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 100,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

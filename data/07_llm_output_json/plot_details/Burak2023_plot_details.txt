@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Burak2023_2020_CommonHart",
+          "plot_length": 6,
+          "plot_width": 2,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Burak2023_2020_Foxfield",
+          "plot_length": 6,
+          "plot_width": 2,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

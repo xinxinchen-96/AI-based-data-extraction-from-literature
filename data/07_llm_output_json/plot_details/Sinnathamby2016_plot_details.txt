@@ -1,0 +1,191 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2009_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2010_SiteRK",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2010_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2011_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2012_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2013_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Foulum",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Frick",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Grado",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Montepaldi",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Osiny",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Vaernes",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Doltra2019_2014_Villaviciosa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

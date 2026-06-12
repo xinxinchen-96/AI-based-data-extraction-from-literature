@@ -1,0 +1,180 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1992",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1993",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1994",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1995",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1996",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1997",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1998",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_1999",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2000",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2001",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2002",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2003",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2004",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2005",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2006",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Basso2010_2007",
+          "plot_length": 6,
+          "plot_width": 20,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

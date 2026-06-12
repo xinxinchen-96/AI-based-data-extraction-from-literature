@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Hunsaker1996_1993",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "circular plots, 25 m in diameter"
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Hunsaker1996_1994",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": "circular plots, 25 m in diameter"
+        }
+      ]
+    }
+  ]
+}

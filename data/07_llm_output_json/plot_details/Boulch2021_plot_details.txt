@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Boulch2021_2019_Beauvais",
+          "plot_length": 10,
+          "plot_width": 2.7,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Boulch2021_2019_CatillonFummenchon",
+          "plot_length": 10,
+          "plot_width": 2.7,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

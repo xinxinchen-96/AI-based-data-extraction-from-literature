@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Artru2017_2015",
+          "plot_length": 68,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Artru2017_2016",
+          "plot_length": 68,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Tian2017_2013",
+          "plot_length": 4.4,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Tian2017_2014",
+          "plot_length": 4.4,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Tian2017_2015",
+          "plot_length": 4.4,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Tian2017_2016",
+          "plot_length": 4.4,
+          "plot_width": 5,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

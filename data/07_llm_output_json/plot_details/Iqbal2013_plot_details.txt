@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Iqbal2013_1999",
+          "plot_length": 5,
+          "plot_width": 10,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Iqbal2013_2000",
+          "plot_length": 5,
+          "plot_width": 10,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Iqbal2013_2001",
+          "plot_length": 5,
+          "plot_width": 10,
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

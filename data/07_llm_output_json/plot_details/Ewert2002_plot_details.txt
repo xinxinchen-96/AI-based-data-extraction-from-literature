@@ -1,0 +1,70 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1993_Maricopa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1994_Maricopa",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": {},
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1998_Braunschweig",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 0.79,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1998_Giessen",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 0.06,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1999_Braunschweig",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 3.1,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Ewert2002_1999_Giessen",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 1.76,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}

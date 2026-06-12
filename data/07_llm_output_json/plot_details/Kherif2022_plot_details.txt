@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kherif2022_2019",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 25,
+          "plot_layout": {}
+        }
+      ]
+    },
+    {
+      "PLOT_DETAILS": [
+        {
+          "experiment_ID": "Kherif2022_2020",
+          "plot_length": {},
+          "plot_width": {},
+          "plot_area": 25,
+          "plot_layout": {}
+        }
+      ]
+    }
+  ]
+}
