@@ -13,7 +13,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
 
 - **55 crop modeling papers** are used in total (see `00_paper_list/paper_list.csv`):
   - **45 papers** are used for **training** (fine-tuning the LLM)
-  - **10 papers** are used for **evaluation**
+  - **10 papers** are used for **validation**
 - Papers cover a wide range of crops (wheat, maize, soybean, sorghum, barley, etc.) and topics (yield simulation, CO₂ enrichment, irrigation, nitrogen management, soil carbon, etc.)
 
 ---
@@ -25,7 +25,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
 | `R/` | R scripts (one per ICASA category) that generate training data and ground-truth JSON files |
 | `python/` | Python scripts implementing the full pipeline (Steps 1–4) |
 | `R_env/` | R environment dependencies and package configurations |
-| `data/00_paper_list/` | List of 55 publications used in the study (45 training + 10 evaluation), see `paper_list.csv` |
+| `data/00_paper_list/` | List of 55 publications used in the study (45 training + 10 validation), see `paper_list.csv` |
 | `data/01_paper_to_md/` | 55 publications of PDF covert to markdown format|
 | `data/02_final_processed_md/` | Final processed Markdown versions of the publications |
 | `data/03_icasa_template/` | Excel template with ICASA variable definitions used for manual extraction and as LLM prompt reference |
@@ -56,12 +56,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                              |  STEP 2: process paper       |
                              |  step2_process_paper.py      |
                              |                              |
-                             |  (all steps run in memory):  |
-                             |  · extract methods section   |
-                             |  · extract tables            |
-                             |  · extract author block      |
-                             |  · extract publication date  |
-                             |  · combine all → FINAL       |
+                             |  · extract specificsection   |
                              +------------------------------+
                                           |
                          [OUT] 02_final_processed_md/  ◄─────────────────────────────────┐
@@ -95,7 +90,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
   |  Ground-truth JSON files  |   |  JSONL fine-tuning datasets   |
   |  (one JSON per paper,     |   |  (one .jsonl per category,    |
   |   per category)           |   |   55 items each:              |
-  |                           |   |   45 training + 10 evaluation)|
+  |                           |   |   45 training + 10 validation)|
   +---------------------------+   +-------------------------------+
                   |                         |
                   v                         v
@@ -213,7 +208,7 @@ Before Python Step 3 can run, the JSONL training data must be uploaded manually 
 3. Once training completes, copy the resulting **fine-tuned model ID** (e.g., `ft:gpt-4.1-mini-2025-04-14:personal:exp-v040526:DbkEyIz7`).
 4. Paste the model IDs into the `FINE_TUNED_MODELS` dictionary in `step3_llm_extract_icasa_variables.py`.
 
-The model is fine-tuned **separately for each of the 8 ICASA categories**, using 45 papers for training and 10 papers held out for evaluation.
+The model is fine-tuned **separately for each of the 8 ICASA categories**, using 45 papers for training and 10 papers held out for validation.
 
 ---
 
