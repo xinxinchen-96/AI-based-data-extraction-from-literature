@@ -1,0 +1,37 @@
+{
+  "FERTILIZERS": [
+    {
+      "experiment_ID": "Iqbal2013_1999",
+      "fertilizer_level_name": null,
+      "fertilization_date": null,
+      "fertilizer_material": "FE043",
+      "fertilizer_total_amount": "450",
+      "N_in_applied_fertilizer": "150",
+      "phosphorus_applied_fert": "300",
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "before sowing, irrigation contain fertilization"
+    },
+    {
+      "experiment_ID": "Iqbal2013_2000",
+      "fertilizer_level_name": null,
+      "fertilization_date": null,
+      "fertilizer_material": "FE043",
+      "fertilizer_total_amount": "450",
+      "N_in_applied_fertilizer": "150",
+      "phosphorus_applied_fert": "300",
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "before sowing, irrigation contain fertilization"
+    },
+    {
+      "experiment_ID": "Iqbal2013_2001",
+      "fertilizer_level_name": null,
+      "fertilization_date": null,
+      "fertilizer_material": "FE043",
+      "fertilizer_total_amount": "450",
+      "N_in_applied_fertilizer": "150",
+      "phosphorus_applied_fert": "300",
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "before sowing, irrigation contain fertilization"
+    }
+  ]
+}

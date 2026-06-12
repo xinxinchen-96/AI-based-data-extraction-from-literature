@@ -1,0 +1,48 @@
+{
+  "FERTILIZERS": [
+    {
+      "experiment_ID": "Kimball1995_1993",
+      "fertilizer_level_name": null,
+      "fertilization_date": null,
+      "fertilizer_material": "granular",
+      "fertilizer_total_amount": "83",
+      "N_in_applied_fertilizer": "54",
+      "phosphorus_applied_fert": "29",
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "pre-plant application of granular (16-20-0)"
+    },
+    {
+      "experiment_ID": "Kimball1995_1993",
+      "fertilizer_level_name": null,
+      "fertilization_date": "1993-01-30",
+      "fertilizer_material": "Uran-32",
+      "fertilizer_total_amount": "107",
+      "N_in_applied_fertilizer": "92",
+      "phosphorus_applied_fert": "15",
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "superphosphoric acid application"
+    },
+    {
+      "experiment_ID": "Kimball1995_1993",
+      "fertilizer_level_name": null,
+      "fertilization_date": "1993-03-18",
+      "fertilizer_material": "Uran-32",
+      "fertilizer_total_amount": "59",
+      "N_in_applied_fertilizer": "59",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "applied with the irrigation water"
+    },
+    {
+      "experiment_ID": "Kimball1995_1993",
+      "fertilizer_level_name": null,
+      "fertilization_date": "1993-04-05",
+      "fertilizer_material": "Uran-32",
+      "fertilizer_total_amount": "72",
+      "N_in_applied_fertilizer": "72",
+      "phosphorus_applied_fert": null,
+      "fertilizer_K_applied": null,
+      "fertilizer_applic_notes": "applied with the irrigation water"
+    }
+  ]
+}
