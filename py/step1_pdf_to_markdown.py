@@ -10,6 +10,8 @@ Usage:
 Input:  A folder containing PDF files (one per paper)
 Output: A folder of Markdown files (one subfolder per PDF)
 """
+# step1: https://pypi.org/project/marker-pdf/
+# pip install marker-pdf 
 
 import subprocess
 
