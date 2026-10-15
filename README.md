@@ -96,7 +96,7 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                   v                         v
   +---------------------------+   +-------------------------------+
   |  R SCRIPTS  (R/)          |   |  [OpenAI Platform]            |
-  |  convert json to tabular_*|   |  Upload JSONL → fine-tune     |
+  |  json_to_xlsx.R           |   |  Upload JSONL → fine-tune     |
   +---------------------------+   |  GPT model (one per category) |
                   |               |  → returns fine-tuned         |
                   v               |    model ID                   |

@@ -1,0 +1,34 @@
+name: 🚀 Confirm Executability and run test
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  run_check:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: read
+    steps:
+      # setup
+      - uses: actions/checkout@v6
+      - name: Install uv
+        uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b
+      - run: uv python install
+      - name: Install the project
+        run: uv sync --locked --all-extras --dev
+      - run: pip install cwltool
+
+      - name: Run "generate_manual_data"
+        run: cwltool workflows/generate_manual_data/workflow.cwl inputs_generate_manual_data.yaml
+      - name: Perform checks 
+        run: uv run .github/workflows/check_excel_files.py
+
+      - name: Run "generate_training_data"
+        run: cwltool workflows/generate_training_data/workflow.cwl inputs_generate_training_data.yaml
+
+      - name: Run "json2tabular"
+        run: cwltool workflows/json2tabular/workflow.cwl inputs_json2tabular.yaml
+      
+      - name: Run "review"
+        run: cwltool workflows/review/workflow.cwl inputs_review.yaml

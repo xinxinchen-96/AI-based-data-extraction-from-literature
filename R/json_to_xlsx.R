@@ -7,7 +7,15 @@
 ## Date Created: 2025-06-10
 ## Email: benjamin.leroy@inrae.fr
 ## ------------------------------------------------------------------------------------------------------------------
-
+## Usage:
+##   Rscript json_to_xlsx.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+## Example:
+##   Rscript json_to_xlsx.R \
+##     -i manual_json \
+##     -o ./jsonl
 # ---- Load environment ---------------------------------------------------------------------------------------------
 
 # renv::restore()
@@ -16,7 +24,31 @@
 # ---- Load manually annotated study metadata (json files) ----------------------------------------------------------
 
 # Read json files as data frames
-json_dir <- "./data/03_manual_json"
+
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
+
+option_list <- list(
+  make_option(c("-j", "--input_folder"), type = "character", default = NULL,
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+  make_option(c("-o", "--output_folder"), type = "character", default = NULL,
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
+)
+
+opt_parser <- OptionParser(
+  option_list = option_list,
+  description = paste(
+    "Convert JSON to tabular exp metadata"
+  )
+)
+
+opt <- parse_args(opt_parser)
+
+if (!dir.exists(opt$output_folder)) {
+  dir.create(opt$output_folder, recursive = TRUE)
+}
+
+json_dir <- opt$input_folder
 json_files <- list.files(json_dir, pattern = "\\.json$", full.names = TRUE, ignore.case = TRUE, recursive = TRUE)
 file_names <- basename(json_files)
 
@@ -35,7 +67,7 @@ study_tables <- split(json_data, names(json_data)) |>
 # ---- Write tabular version of json files --------------------------------------------------------------------------
 
 # Write a xlsx workbook per study with set formatting
-output_dir <- "./data/04_manual_tabular"
+output_dir <- opt$output_folder
 
 for (study in names(study_tables)) {
   wb <- openxlsx2::wb_workbook()

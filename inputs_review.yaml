@@ -1,0 +1,15 @@
+icasa_template:
+  class: File
+  location: data/03_icasa_template/icasa_template_allColumns.xlsm
+evaluation_folder_name: 09_evaluation
+llm_tabular_folder_name: 08_llm_output_tabular
+training_data_folder_name: 06_training_data
+llm_output_json:
+  class: Directory
+  location: data/07_llm_output_json
+tabular_folder_name: 05_manual_tabular
+processed_folder_name: 02_final_processed_md
+json_folder_name: 04_manual_json
+md_folder:
+  class: Directory
+  location: data/01_paper_to_md

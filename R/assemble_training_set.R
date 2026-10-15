@@ -6,6 +6,16 @@
 ## Author: Benjamin Leroy
 ## Date Created: 2025-08-06
 ## Email: benjamin.leroy@inrae.fr
+##
+## Usage:
+##   Rscript assemble_training_set.R \
+##     --template_path ./data/03_icasa_template/icasa_template_allColumns.xlsm \
+##     --markdown_folder ./data/01_paper_md \
+##     --json_folder ./data/04_manual_json \
+##     --output_directory ./data/05_training_data
+##
+##   Rscript assemble_training_set.R --help
+## 
 ## ------------------------------------------------------------------------------------------------------------------
 
 # ---- Load environment ---------------------------------------------------------------------------------------------
@@ -14,8 +24,35 @@
 # renv::restore()
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
 
-template_path <- "./data/02_icasa_template/icasa_template_allColumns.xlsm" 
+option_list <- list(
+  make_option(c("-t", "--template_path"), type = "character", default = NULL,
+              help = "Path to the ICASA template (.xlsm) file", metavar = "FILE"),
+  make_option(c("-m", "--markdown_folder"), type = "character", default = NULL,
+              help = "Folder containing tokenized article markdown (.md) files", metavar = "DIR"),
+  make_option(c("-j", "--json_folder"), type = "character", default = NULL,
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+  make_option(c("-o", "--output_directory"), type = "character", default = NULL,
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
+)
+ 
+opt_parser <- OptionParser(
+  option_list = option_list,
+  description = paste(
+    "Assemble jsonl training files for LLM-supported extraction of context metadata from",
+    "tokenized scientific articles (markdown) based on the ICASA crop modeling controlled vocabulary."
+  )
+)
+
+opt <- parse_args(opt_parser)
+
+template_path     <- opt$template_path
+markdown_folder   <- opt$markdown_folder
+json_folder       <- opt$json_folder
+output_directory  <- opt$output_directory
+
 
 str_datasets <- csmTools::get_field_data0(
   path = template_path,
@@ -106,18 +143,20 @@ fix_empty_df <- function(df) {
 # Write output as separate json per study and section
 lapply(names(data_by_study), function(sec) {
   subdir <- tolower(sec)
-  dir.create(file.path("./data/03_manual_json", subdir), recursive = TRUE, showWarnings = FALSE)
+  dir.create(file.path(json_folder, subdir), recursive = TRUE, showWarnings = FALSE)
   
   lapply(names(data_by_study[[sec]]), function(study) {
     df <- fix_empty_df(data_by_study[[sec]][[study]])
     wrapped <- setNames(list(df), sec)
     json <- jsonlite::toJSON(wrapped, pretty = TRUE, na = "null", Date = "ISO8601", POSIXt = "ISO8601")
-    writeLines(json, con = file.path("./data/03_manual_json", subdir, paste0(study, ".json")))
+    writeLines(json, con = file.path(json_folder, subdir, paste0(study, ".json")))
   })
 })
 
 # ---- Create training files -----------------------------------------------------------------------------------------
-
+if (!dir.exists(output_directory)) {
+  dir.create(output_directory, recursive = TRUE)
+}
 # Function to generate training json pair
 generate_training_file <- function(sec = NULL, md_dir, str_dir, sys_msg, user_prompt, output_file) {
 
@@ -180,10 +219,10 @@ lapply(names(target_attributes), function(sec) {
   out_basename <- paste0(subdir, ".jsonl")
   generate_training_file(
     sec = sec,
-    md_dir = "./data/01_paper_md",  # markown folder
-    str_dir = "./data/03_manual_json",  # json folder
+    md_dir = markdown_folder,
+    str_dir = json_folder,
     sys_msg = sys_msg,
     user_prompt = user_prompts[[sec]],
-    output_file = file.path("./data/05_training_data", out_basename)  # training data name
+    output_file = file.path(output_directory, out_basename)  # training data name
   )
 })
