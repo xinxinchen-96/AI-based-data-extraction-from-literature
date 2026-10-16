@@ -1,3 +1,9 @@
+## Usage:
+##   Rscript json2tabular_harvest.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+
 # Install required packages if not already installed
 if (!require("jsonlite")) install.packages("jsonlite")
 if (!require("openxlsx")) install.packages("openxlsx")
@@ -7,9 +13,31 @@ library(jsonlite)
 library(openxlsx)
 library(dplyr)
 
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
+
+option_list <- list(
+  make_option(c("-j", "--input_folder"), type = "character", default = NULL,
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+  make_option(c("-o", "--output_folder"), type = "character", default = NULL,
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
+)
+
+opt_parser <- OptionParser(
+  option_list = option_list,
+  description = paste(
+    "Convert JSON to tabular exp metadata"
+  )
+)
+
+opt <- parse_args(opt_parser)
+
+input_folder <- opt$input_folder
+output_folder <- opt$output_folder
+
 # ── 1. Configuration ──────────────────────────────────────────────────────────
-input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_fertilizer_v121"          # folder containing your JSON/txt files
-output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_fertilizer_v121_excel"  # folder where Excel files will be saved
+#input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v050526_harvest_correct_v124"          # folder containing your JSON/txt files
+#output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v050526_harvest_correct_v124_excel"  # folder where Excel files will be saved
 file_pattern  <- "\\.(json|txt)$"  # match .json or .txt files
 # ── 1. Setup & Configuration ──────────────────────────────────────────────────
 library(jsonlite)
@@ -19,70 +47,66 @@ library(purrr)
 
 if (!dir.exists(output_folder)) dir.create(output_folder, recursive = TRUE)
 
-
+# ── 2. The Conversion Function ────────────────────────────────────────────────
 convert_json_to_excel <- function(json_path, out_path) {
   
-  # 1. Check if file is empty to avoid "Premature EOF"
-  if (file.info(json_path)$size == 0) {
-    stop("File is empty.")
+  # Load JSON
+  data <- fromJSON(json_path, flatten = TRUE)
+  
+  # Handle nested cropYear -> GENOTYPES structure
+  # Based on str() output: cropYear is a dataframe, GENOTYPES is a list column
+  if (!is.null(data$cropYear$HARVESTS)) {
+    # Combine the list of observations into one flat dataframe
+    df <- bind_rows(data$cropYear$HARVESTS)
+  } else if (!is.null(data$HARVESTS)) {
+    df <- as.data.frame(data$HARVESTS)
+  } else {
+    # Fallback for other structures
+    df <- as.data.frame(data)
   }
   
-  # 2. Load JSON
-  raw_data <- fromJSON(json_path, simplifyVector = FALSE)
-  
-  # 3. Extract and Flatten the FERTILIZERS data
-  if (!is.null(raw_data$cropYear)) {
-    # Combine list of lists into a single data frame
-    df_list <- lapply(raw_data$cropYear, function(year_entry) {
-      if (is.null(year_entry$FERTILIZERS)) return(NULL)
-      
-      # Convert each fertilizer record into a clean data frame row
-      lapply(year_entry$FERTILIZERS, function(rec) {
-        # Convert empty lists {} to NA so they don't break the dataframe
-        rec <- lapply(rec, function(val) {
-          if (is.list(val) && length(val) == 0) return(NA)
-          return(val)
-        })
-        return(as.data.frame(rec, stringsAsFactors = FALSE))
-      }) %>% bind_rows()
+  # Safety Check: If df is empty, stop here
+  if (nrow(df) == 0) {
+    stop("No data rows found in the expected JSON structure.")
+  }
+  all_cols <- c(
+    "experiment_ID",
+    "harvest_ops_level_name",
+    "harvest_operations_date",
+    "harvest_method",
+    "harvest_operations_notes"
+  )
+  # ── Data Cleaning (Essential for Excel) ─────────────────────────────────────
+  # Convert any remaining list-columns into comma-separated strings
+  df <- bind_rows(lapply(data$cropYear$HARVESTS, function(rec) {
+    
+    # Add missing fields
+    rec[setdiff(all_cols, names(rec))] <- ""
+    
+    # Convert {} or NULL → ""
+    rec <- lapply(rec, function(x) {
+      if (is.null(x) || (is.list(x) && length(x) == 0)) return("")
+      x
     })
     
-    df <- bind_rows(df_list)
-    
-  } else {
-    stop("JSON does not contain the expected 'cropYear' key.")
-  }
-  
-  if (is.null(df) || nrow(df) == 0) {
-    stop("No fertilizer data found within cropYear.")
-  }
-  
-  # 4. Column Alignment (Replacing all_of with base R for stability)
-  all_cols <- c(
-    "experiment_ID", "fertiliz_app_name", "fertilization_date",
-    "fertilizer_material", "fertilizer_total_amount", "N_in_applied_fertilizer",
-    "phosphorus_applied_fert", "fertilizer_K_applied", "fertilizer_applic_notes"
-  )
-  
-  # Ensure every column exists (fill with NA if missing)
-  for (col in all_cols) {
-    if (!(col %in% names(df))) {
-      df[[col]] <- NA
-    }
-  }
-  
-  # Reorder and subset using base R
-  df <- df[, all_cols, drop = FALSE]
-  
-  # 5. Excel Workbook Creation
+    as.data.frame(rec, stringsAsFactors = FALSE)
+  }))
+  df <- df[, all_cols]
+  # ── Excel Workbook Creation ─────────────────────────────────────────────────
   wb <- createWorkbook()
   sheet_name <- substr(tools::file_path_sans_ext(basename(json_path)), 1, 31)
   addWorksheet(wb, sheet_name)
   
+  # Styles
   header_style <- createStyle(
     fontName = "Arial", fontSize = 11, fontColour = "#FFFFFF", 
     fgFill = "#2E75B6", halign = "CENTER", valign = "CENTER",
     textDecoration = "bold", border = "TopBottomLeftRight"
+  )
+  
+  data_style <- createStyle(
+    fontName = "Arial", fontSize = 10, halign = "CENTER",
+    border = "TopBottomLeftRight", borderColour = "#CCCCCC"
   )
   
   alt_style <- createStyle(
@@ -90,16 +114,14 @@ convert_json_to_excel <- function(json_path, out_path) {
     halign = "CENTER", border = "TopBottomLeftRight", borderColour = "#CCCCCC"
   )
   
+  # Write Data
   writeData(wb, sheet_name, df, startRow = 1, startCol = 1, headerStyle = header_style)
   
-  # Apply alternating colors
-  if (nrow(df) > 0) {
-    for (i in seq_len(nrow(df))) {
-      if (i %% 2 == 0) {
-        addStyle(wb, sheet_name, style = alt_style, rows = i + 1, 
-                 cols = seq_len(ncol(df)), gridExpand = TRUE)
-      }
-    }
+  # Apply Alternating Row Colors
+  for (i in seq_len(nrow(df))) {
+    style <- if (i %% 2 == 0) alt_style else data_style
+    addStyle(wb, sheet_name, style = style, rows = i + 1, 
+             cols = seq_len(ncol(df)), gridExpand = TRUE)
   }
   
   setColWidths(wb, sheet_name, cols = seq_len(ncol(df)), widths = "auto")
@@ -107,7 +129,6 @@ convert_json_to_excel <- function(json_path, out_path) {
   
   saveWorkbook(wb, out_path, overwrite = TRUE)
 }
-
 
 # ── 3. Batch process all matching files ───────────────────────────────────────
 json_files <- list.files(input_folder, pattern = file_pattern,

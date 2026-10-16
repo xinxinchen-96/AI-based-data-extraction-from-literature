@@ -1,0 +1,4 @@
+icasa_template:
+  class: File
+  location: data/03_icasa_template/icasa_template_allColumns.xlsm
+xlsx_dirname: 04_manual_tabular

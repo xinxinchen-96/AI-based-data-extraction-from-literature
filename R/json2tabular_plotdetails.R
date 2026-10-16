@@ -1,3 +1,9 @@
+## Usage:
+##   Rscript json2tabular_plotdetails.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+
 # Install required packages if not already installed
 if (!require("jsonlite")) install.packages("jsonlite")
 if (!require("openxlsx")) install.packages("openxlsx")
@@ -7,9 +13,32 @@ library(jsonlite)
 library(openxlsx)
 library(dplyr)
 
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
+
+option_list <- list(
+  make_option(c("-j", "--input_folder"), type = "character", default = NULL,
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+  make_option(c("-o", "--output_folder"), type = "character", default = NULL,
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
+)
+
+opt_parser <- OptionParser(
+  option_list = option_list,
+  description = paste(
+    "Convert JSON to tabular exp metadata"
+  )
+)
+
+opt <- parse_args(opt_parser)
+
+input_folder <- opt$input_folder
+output_folder <- opt$output_folder
+
+
 # ── 1. Configuration ──────────────────────────────────────────────────────────
-input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_plot_v121"          # folder containing your JSON/txt files
-output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_plot_v121_excel"  # folder where Excel files will be saved
+#input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_plot_v121"          # folder containing your JSON/txt files
+#output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\gpt-4.1-mini_finetuning_output_v050526_plot_v121_excel"  # folder where Excel files will be saved
 file_pattern  <- "\\.(json|txt)$"  # match .json or .txt files
 # ── 1. Setup & Configuration ──────────────────────────────────────────────────
 library(jsonlite)

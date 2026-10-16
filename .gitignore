@@ -5,6 +5,9 @@ temp/
 .idea/
 config.yaml
 
+data/01_paper_to_md/*
+!data/01_paper_to_md/readme.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

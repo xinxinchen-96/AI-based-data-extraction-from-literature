@@ -1,3 +1,9 @@
+## Usage:
+##   Rscript json2tabular_genotype.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+
 # Install required packages if not already installed
 if (!require("jsonlite")) install.packages("jsonlite")
 if (!require("openxlsx")) install.packages("openxlsx")
@@ -7,9 +13,31 @@ library(jsonlite)
 library(openxlsx)
 library(dplyr)
 
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
+
+option_list <- list(
+  make_option(c("-j", "--input_folder"), type = "character", default = NULL,
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+  make_option(c("-o", "--output_folder"), type = "character", default = NULL,
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
+)
+
+opt_parser <- OptionParser(
+  option_list = option_list,
+  description = paste(
+    "Convert JSON to tabular exp metadata"
+  )
+)
+
+opt <- parse_args(opt_parser)
+
+input_folder <- opt$input_folder
+output_folder <- opt$output_folder
+
 # ── 1. Configuration ──────────────────────────────────────────────────────────
-input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v050526_harvest_correct_v124"          # folder containing your JSON/txt files
-output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v050526_harvest_correct_v124_excel"  # folder where Excel files will be saved
+#input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v040526_genotype_v99"          # folder containing your JSON/txt files
+#output_folder <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v040526_genotype_v99_excel"  # folder where Excel files will be saved
 file_pattern  <- "\\.(json|txt)$"  # match .json or .txt files
 # ── 1. Setup & Configuration ──────────────────────────────────────────────────
 library(jsonlite)
@@ -27,11 +55,11 @@ convert_json_to_excel <- function(json_path, out_path) {
   
   # Handle nested cropYear -> GENOTYPES structure
   # Based on str() output: cropYear is a dataframe, GENOTYPES is a list column
-  if (!is.null(data$cropYear$HARVESTS)) {
+  if (!is.null(data$cropYear$GENOTYPES)) {
     # Combine the list of observations into one flat dataframe
-    df <- bind_rows(data$cropYear$HARVESTS)
-  } else if (!is.null(data$HARVESTS)) {
-    df <- as.data.frame(data$HARVESTS)
+    df <- bind_rows(data$cropYear$GENOTYPES)
+  } else if (!is.null(data$GENOTYPES)) {
+    df <- as.data.frame(data$GENOTYPES)
   } else {
     # Fallback for other structures
     df <- as.data.frame(data)
@@ -43,14 +71,14 @@ convert_json_to_excel <- function(json_path, out_path) {
   }
   all_cols <- c(
     "experiment_ID",
-    "harvest_ops_level_name",
-    "harvest_operations_date",
-    "harvest_method",
-    "harvest_operations_notes"
+    "crop_ident_ICASA",
+    "cultivar_name",
+    "crop_intended_use",
+    "cultivar_notes"
   )
   # ── Data Cleaning (Essential for Excel) ─────────────────────────────────────
   # Convert any remaining list-columns into comma-separated strings
-  df <- bind_rows(lapply(data$cropYear$HARVESTS, function(rec) {
+  df <- bind_rows(lapply(data$cropYear$GENOTYPES, function(rec) {
     
     # Add missing fields
     rec[setdiff(all_cols, names(rec))] <- ""

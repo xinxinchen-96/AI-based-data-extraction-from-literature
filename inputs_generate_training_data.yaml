@@ -1,0 +1,7 @@
+icasa_template:
+  class: File
+  location: data/03_icasa_template/icasa_template_allColumns.xlsm
+markdown_papers:
+  class: Directory
+  location: data/01_paper_to_md
+training_data_dirname: 06_training_data

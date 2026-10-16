@@ -1,0 +1,3 @@
+llm_output_json:
+  class: Directory
+  location: data/07_llm_output_json

@@ -1,0 +1,3 @@
+[workflow]
+name = "data_extraction_workflow"
+version = "0.1.0"
