@@ -8,7 +8,7 @@ Example commands on how to execute are shown in `.github/workflows/check_executa
 
 To run workflows a runner such as [`cwltool`](https://github.com/common-workflow-language/cwltool) is needed: `pip install cwltool`. Furthermore `docker` (or a similiar technology) needs to be installed on the executing system.
 
-## Main Workflow
+## Main workflow
 The main workflow file is located in this folder called `workflow.cwl` which represents a **non-executable** representation of the full pipeline including the beforementioned non-executable description of the `fine-tune_model` step. 
 ```mermaid
 ---
@@ -263,7 +263,7 @@ flowchart TB
   style evaluation stroke:#385723,stroke-width:2px;
 ```
 
-## Review Workflow
+## Review workflow
 The most comprehensive subworkflow is the `review` workflow as it contains all steps which can be executed without the llm API key, the PDF files and the manual fine tuned models.
 
 ### Usage:
@@ -484,7 +484,7 @@ flowchart TB
   style generate_icasa_json_icasa_attributes font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
 ```
 
-## Generate Training Data
+## Generate training data
 `generate_training_data` contains a workflow which processes the extracted markdownfiles and generates training data in JSONL format by also using data from the ICASA template. This JSONL files need to be manually uploaded to OpenAIs Platform. That's why this workflow contains all needed steps up to this point and exits here. 
 The `marker` step is left out on purpose on this workflow due to copyright limitations.
 
@@ -598,7 +598,7 @@ flowchart TB
   style workflow stroke:#385723,stroke-width:2px;
 ```
 
-## Convert LLM JSON to Tabular files
+## Convert LLM JSON to tabular files
 The `json2tabular` workflow combines the conversion of all supported ICASA categories to prepare for a comparison to the manual created data. The tools are all combined in this folder to create a small but helpful workflow.
 
 ### Usage
